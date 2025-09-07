@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 612189dafb29a8147ac3f38cef28ce81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2714373645801858352
+    second: parado cavaleiro_0
+  - first:
+      213: 946316735933489325
+    second: parado cavaleiro_1
+  - first:
+      213: 3826445434263560403
+    second: parado cavaleiro_2
+  - first:
+      213: -2032881034770478271
+    second: parado cavaleiro_3
+  - first:
+      213: -6997785174552028913
+    second: parado cavaleiro_4
+  - first:
+      213: -8560370147851555163
+    second: parado cavaleiro_5
+  - first:
+      213: -4812051353687549141
+    second: parado cavaleiro_6
+  - first:
+      213: -415745678754109236
+    second: parado cavaleiro_7
+  - first:
+      213: 5553119029579550263
+    second: parado cavaleiro_8
+  - first:
+      213: 934175721364192867
+    second: parado cavaleiro_9
+  - first:
+      213: -5251496996204564904
+    second: parado cavaleiro_10
+  - first:
+      213: -6447161756035729618
+    second: parado cavaleiro_11
+  - first:
+      213: -8686802000494060500
+    second: parado cavaleiro_12
+  - first:
+      213: 6006515475052735172
+    second: parado cavaleiro_13
+  - first:
+      213: -7118270090898303744
+    second: parado cavaleiro_14
+  - first:
+      213: 6979207045464500899
+    second: parado cavaleiro_15
+  - first:
+      213: 8451433978310156846
+    second: parado cavaleiro_16
+  - first:
+      213: 1810012840568876105
+    second: parado cavaleiro_17
+  - first:
+      213: 7225356736061079846
+    second: parado cavaleiro_18
+  - first:
+      213: 1127862660041744574
+    second: parado cavaleiro_19
+  - first:
+      213: -4971068334493656201
+    second: parado cavaleiro_20
+  - first:
+      213: 5744019341050375900
+    second: parado cavaleiro_21
+  - first:
+      213: 1816921757123125088
+    second: parado cavaleiro_22
+  - first:
+      213: 5173424960026357812
+    second: parado cavaleiro_23
+  - first:
+      213: -8798334104264984679
+    second: parado cavaleiro_24
+  - first:
+      213: -2151991257946941263
+    second: parado cavaleiro_25
+  - first:
+      213: -3771027174024460572
+    second: parado cavaleiro_26
+  - first:
+      213: 6999007010324731374
+    second: parado cavaleiro_27
+  - first:
+      213: 7333330740103801121
+    second: parado cavaleiro_28
+  - first:
+      213: 8767501688515789549
+    second: parado cavaleiro_29
+  - first:
+      213: 926853444932389204
+    second: parado cavaleiro_30
+  - first:
+      213: 871889285485912812
+    second: parado cavaleiro_31
+  - first:
+      213: -2125697192087196957
+    second: parado cavaleiro_32
+  - first:
+      213: -5786234283910762134
+    second: parado cavaleiro_33
+  - first:
+      213: 2846346735841044213
+    second: parado cavaleiro_34
+  - first:
+      213: -2413903707103278665
+    second: parado cavaleiro_35
+  - first:
+      213: -4271334917737536973
+    second: parado cavaleiro_36
+  - first:
+      213: 8177357013113591181
+    second: parado cavaleiro_37
+  - first:
+      213: -6898431451775565039
+    second: parado cavaleiro_38
+  - first:
+      213: -7297259842237790328
+    second: parado cavaleiro_39
+  - first:
+      213: 6620469241865092257
+    second: parado cavaleiro_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parado cavaleiro_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1918
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035a3b113746ba520800000000000000
+      internalID: 2714373645801858352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1918
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0a25abe0ef12d00800000000000000
+      internalID: 946316735933489325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_2
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1918
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0e1bd59d34a1530800000000000000
+      internalID: 3826445434263560403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_3
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1918
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b80e33871c9c3e0800000000000000
+      internalID: -2032881034770478271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_4
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1918
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09d458a57fd2ee90800000000000000
+      internalID: -6997785174552028913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_5
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1918
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae237f84b4733980800000000000000
+      internalID: -8560370147851555163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_6
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1918
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b14860ac8283db0800000000000000
+      internalID: -4812051353687549141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_7
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1918
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc825f40289fa3af0800000000000000
+      internalID: -415745678754109236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1662
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e0d81f554a01d40800000000000000
+      internalID: 5553119029579550263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1662
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ef4bd7edbd6fc00800000000000000
+      internalID: 934175721364192867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1662
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e223a3e4fee17b0800000000000000
+      internalID: -5251496996204564904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_11
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1662
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27b10a9a841786a0800000000000000
+      internalID: -6447161756035729618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_12
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1662
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c166eea97427780800000000000000
+      internalID: -8686802000494060500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_13
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1662
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caa76c200e6b5350800000000000000
+      internalID: 6006515475052735172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_14
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1662
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00518b80113d63d90800000000000000
+      internalID: -7118270090898303744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_15
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1662
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaa0d694df1bd060800000000000000
+      internalID: 6979207045464500899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1406
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e7d7fc66894570800000000000000
+      internalID: 8451433978310156846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1406
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ce001b6157e1910800000000000000
+      internalID: 1810012840568876105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_18
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1406
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621856c7baf954460800000000000000
+      internalID: 7225356736061079846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_19
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1406
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb027371d19f6af00800000000000000
+      internalID: 1127862660041744574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_20
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1406
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b105800b7330bb0800000000000000
+      internalID: -4971068334493656201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_21
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1406
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdee746582bd6bf40800000000000000
+      internalID: 5744019341050375900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_22
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1406
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f900e26b0073910800000000000000
+      internalID: 1816921757123125088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_23
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1406
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430b2865792bbc740800000000000000
+      internalID: 5173424960026357812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1150
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997b41c6fb906e580800000000000000
+      internalID: -8798334104264984679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1150
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b893564a579222e0800000000000000
+      internalID: -2151991257946941263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_26
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1150
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e64de5d3ce9aabc0800000000000000
+      internalID: -3771027174024460572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1150
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5dfd62bc7712160800000000000000
+      internalID: 6999007010324731374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_28
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1150
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129e658547935c560800000000000000
+      internalID: 7333330740103801121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_29
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1150
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de20f9f555c6ca970800000000000000
+      internalID: 8767501688515789549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_30
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1150
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459ca082c48dcdc00800000000000000
+      internalID: 926853444932389204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_31
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1150
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce26bd88fa2991c00800000000000000
+      internalID: 871889285485912812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 894
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eae89d8aa10082e0800000000000000
+      internalID: -2125697192087196957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 894
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ff48539a23bfa0800000000000000
+      internalID: -5786234283910762134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 894
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6e5619641408720800000000000000
+      internalID: 2846346735841044213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_35
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 894
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b94c182e57108ed0800000000000000
+      internalID: -2413903707103278665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_36
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 894
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3322887d58b29b4c0800000000000000
+      internalID: -4271334917737536973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_37
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 894
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d855f20c0eecb7170800000000000000
+      internalID: 8177357013113591181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_38
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 894
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1130981e429d340a0800000000000000
+      internalID: -6898431451775565039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_39
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 894
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88781b506dceaba90800000000000000
+      internalID: -7297259842237790328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parado cavaleiro_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 638
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb4cfd2b1a0eb50800000000000000
+      internalID: 6620469241865092257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      parado cavaleiro_0: 2714373645801858352
+      parado cavaleiro_1: 946316735933489325
+      parado cavaleiro_10: -5251496996204564904
+      parado cavaleiro_11: -6447161756035729618
+      parado cavaleiro_12: -8686802000494060500
+      parado cavaleiro_13: 6006515475052735172
+      parado cavaleiro_14: -7118270090898303744
+      parado cavaleiro_15: 6979207045464500899
+      parado cavaleiro_16: 8451433978310156846
+      parado cavaleiro_17: 1810012840568876105
+      parado cavaleiro_18: 7225356736061079846
+      parado cavaleiro_19: 1127862660041744574
+      parado cavaleiro_2: 3826445434263560403
+      parado cavaleiro_20: -4971068334493656201
+      parado cavaleiro_21: 5744019341050375900
+      parado cavaleiro_22: 1816921757123125088
+      parado cavaleiro_23: 5173424960026357812
+      parado cavaleiro_24: -8798334104264984679
+      parado cavaleiro_25: -2151991257946941263
+      parado cavaleiro_26: -3771027174024460572
+      parado cavaleiro_27: 6999007010324731374
+      parado cavaleiro_28: 7333330740103801121
+      parado cavaleiro_29: 8767501688515789549
+      parado cavaleiro_3: -2032881034770478271
+      parado cavaleiro_30: 926853444932389204
+      parado cavaleiro_31: 871889285485912812
+      parado cavaleiro_32: -2125697192087196957
+      parado cavaleiro_33: -5786234283910762134
+      parado cavaleiro_34: 2846346735841044213
+      parado cavaleiro_35: -2413903707103278665
+      parado cavaleiro_36: -4271334917737536973
+      parado cavaleiro_37: 8177357013113591181
+      parado cavaleiro_38: -6898431451775565039
+      parado cavaleiro_39: -7297259842237790328
+      parado cavaleiro_4: -6997785174552028913
+      parado cavaleiro_40: 6620469241865092257
+      parado cavaleiro_5: -8560370147851555163
+      parado cavaleiro_6: -4812051353687549141
+      parado cavaleiro_7: -415745678754109236
+      parado cavaleiro_8: 5553119029579550263
+      parado cavaleiro_9: 934175721364192867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
