@@ -1,0 +1,2457 @@
+fileFormatVersion: 2
+guid: ea5cde5c73bf1df4dbe912c29865e875
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1588525286570143787
+    second: correndo cavaleiro new_0
+  - first:
+      213: 5824161884820047958
+    second: correndo cavaleiro new_1
+  - first:
+      213: 3245661836372102745
+    second: correndo cavaleiro new_2
+  - first:
+      213: 1218336299349500633
+    second: correndo cavaleiro new_3
+  - first:
+      213: 6198008655038339098
+    second: correndo cavaleiro new_4
+  - first:
+      213: -1565970574497233103
+    second: correndo cavaleiro new_5
+  - first:
+      213: 8203749610901146672
+    second: correndo cavaleiro new_6
+  - first:
+      213: -7417005039883083068
+    second: correndo cavaleiro new_7
+  - first:
+      213: -4278516990803369906
+    second: correndo cavaleiro new_8
+  - first:
+      213: -2942917510957786521
+    second: correndo cavaleiro new_9
+  - first:
+      213: 3405483781791679599
+    second: correndo cavaleiro new_10
+  - first:
+      213: -1631218640119240430
+    second: correndo cavaleiro new_11
+  - first:
+      213: 3092604944576156062
+    second: correndo cavaleiro new_12
+  - first:
+      213: -89261967785749722
+    second: correndo cavaleiro new_13
+  - first:
+      213: -3512062422589376722
+    second: correndo cavaleiro new_14
+  - first:
+      213: -563053919364117295
+    second: correndo cavaleiro new_15
+  - first:
+      213: -5289279576517151624
+    second: correndo cavaleiro new_16
+  - first:
+      213: 155736414599158897
+    second: correndo cavaleiro new_17
+  - first:
+      213: 1280768006678713120
+    second: correndo cavaleiro new_18
+  - first:
+      213: 1593277034731092947
+    second: correndo cavaleiro new_19
+  - first:
+      213: -6775226773137723454
+    second: correndo cavaleiro new_20
+  - first:
+      213: 3553768760402942002
+    second: correndo cavaleiro new_21
+  - first:
+      213: 3873461456460060925
+    second: correndo cavaleiro new_22
+  - first:
+      213: 4915291047489301252
+    second: correndo cavaleiro new_23
+  - first:
+      213: 7045992222069626103
+    second: correndo cavaleiro new_24
+  - first:
+      213: 5110462811839514083
+    second: correndo cavaleiro new_25
+  - first:
+      213: 2170575060910580937
+    second: correndo cavaleiro new_26
+  - first:
+      213: -9046049525952495211
+    second: correndo cavaleiro new_27
+  - first:
+      213: 1884882763112363161
+    second: correndo cavaleiro new_28
+  - first:
+      213: -996336764719137189
+    second: correndo cavaleiro new_29
+  - first:
+      213: 8600394530824796073
+    second: correndo cavaleiro new_30
+  - first:
+      213: -5386245287056177641
+    second: correndo cavaleiro new_31
+  - first:
+      213: -1109525036391993846
+    second: correndo cavaleiro new_32
+  - first:
+      213: -6039467348692673560
+    second: correndo cavaleiro new_33
+  - first:
+      213: 6751782612054551819
+    second: correndo cavaleiro new_34
+  - first:
+      213: 6344677539185009129
+    second: correndo cavaleiro new_35
+  - first:
+      213: 6967988350272931130
+    second: correndo cavaleiro new_36
+  - first:
+      213: 8849469231468720980
+    second: correndo cavaleiro new_37
+  - first:
+      213: -4261261147001949748
+    second: correndo cavaleiro new_38
+  - first:
+      213: -7485080321981054468
+    second: correndo cavaleiro new_39
+  - first:
+      213: 5071107062333187692
+    second: correndo cavaleiro new_40
+  - first:
+      213: -4621320596875598136
+    second: correndo cavaleiro new_41
+  - first:
+      213: -7221856616445044853
+    second: correndo cavaleiro new_42
+  - first:
+      213: 7473740104905713992
+    second: correndo cavaleiro new_43
+  - first:
+      213: -8812111325483150749
+    second: correndo cavaleiro new_44
+  - first:
+      213: -8460710730527249977
+    second: correndo cavaleiro new_45
+  - first:
+      213: -1393835614558817362
+    second: correndo cavaleiro new_46
+  - first:
+      213: 8063986808517523941
+    second: correndo cavaleiro new_47
+  - first:
+      213: 2412773533539052511
+    second: correndo cavaleiro new_48
+  - first:
+      213: 1985710502201745785
+    second: correndo cavaleiro new_49
+  - first:
+      213: 8364393781089705509
+    second: correndo cavaleiro new_50
+  - first:
+      213: 6720700356561799860
+    second: correndo cavaleiro new_51
+  - first:
+      213: 5526854240994320735
+    second: correndo cavaleiro new_52
+  - first:
+      213: 6064301247745418634
+    second: correndo cavaleiro new_53
+  - first:
+      213: 2704478064510850289
+    second: correndo cavaleiro new_54
+  - first:
+      213: -4329781953727874108
+    second: correndo cavaleiro new_55
+  - first:
+      213: -8843303860574307442
+    second: correndo cavaleiro new_56
+  - first:
+      213: -2179421872676675873
+    second: correndo cavaleiro new_57
+  - first:
+      213: 1516253440690535239
+    second: correndo cavaleiro new_58
+  - first:
+      213: -143936086881086602
+    second: correndo cavaleiro new_59
+  - first:
+      213: -2380844926603229892
+    second: correndo cavaleiro new_60
+  - first:
+      213: 2480557304479165510
+    second: correndo cavaleiro new_61
+  - first:
+      213: -1674541009713249631
+    second: correndo cavaleiro new_62
+  - first:
+      213: -1802708476006491711
+    second: correndo cavaleiro new_63
+  - first:
+      213: -1861651014279424088
+    second: correndo cavaleiro new_64
+  - first:
+      213: 8511121577606483816
+    second: correndo cavaleiro new_65
+  - first:
+      213: 5720440752061384824
+    second: correndo cavaleiro new_66
+  - first:
+      213: -4451747842024617526
+    second: correndo cavaleiro new_67
+  - first:
+      213: 2433070425355169035
+    second: correndo cavaleiro new_68
+  - first:
+      213: -1992532650561587233
+    second: correndo cavaleiro new_69
+  - first:
+      213: 7287562433253951728
+    second: correndo cavaleiro new_70
+  - first:
+      213: -7817231343556777143
+    second: correndo cavaleiro new_71
+  - first:
+      213: -3274412273944017764
+    second: correndo cavaleiro new_72
+  - first:
+      213: -9180784788985166371
+    second: correndo cavaleiro new_73
+  - first:
+      213: 4420274318911215067
+    second: correndo cavaleiro new_74
+  - first:
+      213: -4609792745093429057
+    second: correndo cavaleiro new_75
+  - first:
+      213: 5817313835940248752
+    second: correndo cavaleiro new_76
+  - first:
+      213: -8839240596517051094
+    second: correndo cavaleiro new_77
+  - first:
+      213: -7265581725758327398
+    second: correndo cavaleiro new_78
+  - first:
+      213: 7893281396732357437
+    second: correndo cavaleiro new_79
+  - first:
+      213: 6163664709808080621
+    second: correndo cavaleiro new_80
+  - first:
+      213: 7246091195247670453
+    second: correndo cavaleiro new_81
+  - first:
+      213: -371826813493522956
+    second: correndo cavaleiro new_82
+  - first:
+      213: 4254401306864332702
+    second: correndo cavaleiro new_83
+  - first:
+      213: -8809102894968358448
+    second: correndo cavaleiro new_84
+  - first:
+      213: -1346485948515863919
+    second: correndo cavaleiro new_85
+  - first:
+      213: 4918012422476179772
+    second: correndo cavaleiro new_86
+  - first:
+      213: -8017593498453883710
+    second: correndo cavaleiro new_87
+  - first:
+      213: 1219424399706748438
+    second: correndo cavaleiro new_88
+  - first:
+      213: -1631497035060618981
+    second: correndo cavaleiro new_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: correndo cavaleiro new_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2432
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc2411bac64f9e0800000000000000
+      internalID: -1588525286570143787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2436
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6588113606493d050800000000000000
+      internalID: 5824161884820047958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2439
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e40027e38ea0d20800000000000000
+      internalID: 3245661836372102745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_3
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2439
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2e0b3c86668e010800000000000000
+      internalID: 1218336299349500633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_4
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2439
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a185b568800c30650800000000000000
+      internalID: 6198008655038339098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_5
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2439
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c0623f0e844ae0800000000000000
+      internalID: -1565970574497233103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_6
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2439
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c03084ec299d170800000000000000
+      internalID: 8203749610901146672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_7
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 2439
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ac749631811990800000000000000
+      internalID: -7417005039883083068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_8
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 2439
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4021b52777af94c0800000000000000
+      internalID: -4278516990803369906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_9
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 2439
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a9514bd18a827d0800000000000000
+      internalID: -2942917510957786521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2182
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f640c0ed475b24f20800000000000000
+      internalID: 3405483781791679599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2181
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21962b41a4fbc59e0800000000000000
+      internalID: -1631218640119240430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2181
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911410dfc32bea20800000000000000
+      internalID: 3092604944576156062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_13
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2180
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6239d2696b0e2cef0800000000000000
+      internalID: -89261967785749722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_14
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2180
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27ff8895d5a24fc0800000000000000
+      internalID: -3512062422589376722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_15
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2180
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc09ea8171af28f0800000000000000
+      internalID: -563053919364117295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_16
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2180
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87477fbbf34b896b0800000000000000
+      internalID: -5289279576517151624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_17
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2180
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c96c6a179492200800000000000000
+      internalID: 155736414599158897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_18
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 2179
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02315cd57b336c110800000000000000
+      internalID: 1280768006678713120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_19
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2180
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db3fe385057c1610800000000000000
+      internalID: 1593277034731092947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1922
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfe862852f89f1a0800000000000000
+      internalID: -6775226773137723454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1921
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23892b1ebd5815130800000000000000
+      internalID: 3553768760402942002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1920
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df818731cac41c530800000000000000
+      internalID: 3873461456460060925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1919
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40be1455a2f963440800000000000000
+      internalID: 4915291047489301252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1919
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f410ae389468c160800000000000000
+      internalID: 7045992222069626103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_25
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1919
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5c989d9d20ce640800000000000000
+      internalID: 5110462811839514083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_26
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1919
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4a5e7848e6f1e10800000000000000
+      internalID: 2170575060910580937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_27
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1919
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591c20952e9f57280800000000000000
+      internalID: -9046049525952495211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_28
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1919
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b192f2e2782a10800000000000000
+      internalID: 1884882763112363161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_29
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1919
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ef046cdfc4c22f0800000000000000
+      internalID: -996336764719137189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1662
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7360a424dba5770800000000000000
+      internalID: 8600394530824796073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1662
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71605efe2763045b0800000000000000
+      internalID: -5386245287056177641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_32
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1661
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ee370abdc2a90f0800000000000000
+      internalID: -1109525036391993846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_33
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1661
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb5a90e1708f2ca0800000000000000
+      internalID: -6039467348692673560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_34
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1660
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dab20638623bd50800000000000000
+      internalID: 6751782612054551819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_35
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1660
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1a5893b92dc0850800000000000000
+      internalID: 6344677539185009129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_36
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1660
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3504119c7443b060800000000000000
+      internalID: 6967988350272931130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_37
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1660
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45331782161afca70800000000000000
+      internalID: 8849469231468720980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_38
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1660
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc176cd5095fcd4c0800000000000000
+      internalID: -4261261147001949748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_39
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1660
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf18d05da17af1890800000000000000
+      internalID: -7485080321981054468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1406
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66285c5101306640800000000000000
+      internalID: 5071107062333187692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1408
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6a806e665cddfb0800000000000000
+      internalID: -4621320596875598136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_42
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1409
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b871dfd9bafc6cb90800000000000000
+      internalID: -7221856616445044853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_43
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1408
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849ee70270f08b760800000000000000
+      internalID: 7473740104905713992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_44
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1408
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3625163207715b580800000000000000
+      internalID: -8812111325483150749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_45
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1409
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c96697da64859a80800000000000000
+      internalID: -8460710730527249977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_46
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1410
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3fee6b4e918ace0800000000000000
+      internalID: -1393835614558817362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_47
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1412
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e97f1b074909ef60800000000000000
+      internalID: 8063986808517523941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_48
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1413
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb2f0eceb4eb7120800000000000000
+      internalID: 2412773533539052511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_49
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1415
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9716f765e29ae8b10800000000000000
+      internalID: 1985710502201745785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1159
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e9653d3db441470800000000000000
+      internalID: 8364393781089705509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_51
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1159
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba05b2dd59b44d50800000000000000
+      internalID: 6720700356561799860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1159
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51e3df46a453bc40800000000000000
+      internalID: 5526854240994320735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_53
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1159
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85e2d2dad9b82450800000000000000
+      internalID: 6064301247745418634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_54
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1158
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f45102887c388520800000000000000
+      internalID: 2704478064510850289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_55
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1158
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb3725d04689e3c0800000000000000
+      internalID: -4329781953727874108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_56
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1158
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bb0ad1ef5464580800000000000000
+      internalID: -8843303860574307442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_57
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1158
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fded3679a5321c1e0800000000000000
+      internalID: -2179421872676675873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_58
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1158
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bb2d98870da0510800000000000000
+      internalID: 1516253440690535239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_59
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1158
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d71f34e2a00ef0800000000000000
+      internalID: -143936086881086602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 901
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35068c472a85fed0800000000000000
+      internalID: -2380844926603229892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_61
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 899
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c2b72d9b5bc6220800000000000000
+      internalID: 2480557304479165510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 898
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2c732e2d5d2c8e0800000000000000
+      internalID: -1674541009713249631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 897
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91c06313e7bf6e0800000000000000
+      internalID: -1802708476006491711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_64
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 896
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7112614461a26e0800000000000000
+      internalID: -1861651014279424088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_65
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 895
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f85612bf39d1670800000000000000
+      internalID: 8511121577606483816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_66
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 894
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87889494e86136f40800000000000000
+      internalID: 5720440752061384824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_67
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 894
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c28e8ce63832c0800000000000000
+      internalID: -4451747842024617526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_68
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 893
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dadc039a004c120800000000000000
+      internalID: 2433070425355169035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_69
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 893
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7b8e77c1a1954e0800000000000000
+      internalID: -1992532650561587233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_70
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 636
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f845900c6f922560800000000000000
+      internalID: 7287562433253951728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 635
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94baf30b28d938390800000000000000
+      internalID: -7817231343556777143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_72
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 635
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94436ba263fe82d0800000000000000
+      internalID: -3274412273944017764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_73
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 635
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5ca3550ec479080800000000000000
+      internalID: -9180784788985166371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_74
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 635
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd51c7cc218f75d30800000000000000
+      internalID: 4420274318911215067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_75
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 634
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8888c0ce9b600c0800000000000000
+      internalID: -4609792745093429057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_76
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 635
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcfe22cc104bb050800000000000000
+      internalID: 5817313835940248752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_77
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 635
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25a3608285b45580800000000000000
+      internalID: -8839240596517051094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_78
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 635
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95fa954ae77b2b90800000000000000
+      internalID: -7265581725758327398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_79
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 636
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6e642c919a8d60800000000000000
+      internalID: 7893281396732357437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 379
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6c8b6a56cb98550800000000000000
+      internalID: 6163664709808080621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 379
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4b2d6fc894f8460800000000000000
+      internalID: 7246091195247670453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_82
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 379
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc0cfab7107daf0800000000000000
+      internalID: -371826813493522956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_83
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f2b93a27baa0b30800000000000000
+      internalID: 4254401306864332702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_84
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 380
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9bb83f697cfb580800000000000000
+      internalID: -8809102894968358448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_85
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 380
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19238afe922505de0800000000000000
+      internalID: -1346485948515863919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_86
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 381
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39a6a2dd3a404440800000000000000
+      internalID: 4918012422476179772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_87
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 382
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4cc233139cbb090800000000000000
+      internalID: -8017593498453883710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_88
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 383
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f6fed7044ce010800000000000000
+      internalID: 1219424399706748438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correndo cavaleiro new_89
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 384
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19db153712cb59e0800000000000000
+      internalID: -1631497035060618981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      correndo cavaleiro new_0: -1588525286570143787
+      correndo cavaleiro new_1: 5824161884820047958
+      correndo cavaleiro new_10: 3405483781791679599
+      correndo cavaleiro new_11: -1631218640119240430
+      correndo cavaleiro new_12: 3092604944576156062
+      correndo cavaleiro new_13: -89261967785749722
+      correndo cavaleiro new_14: -3512062422589376722
+      correndo cavaleiro new_15: -563053919364117295
+      correndo cavaleiro new_16: -5289279576517151624
+      correndo cavaleiro new_17: 155736414599158897
+      correndo cavaleiro new_18: 1280768006678713120
+      correndo cavaleiro new_19: 1593277034731092947
+      correndo cavaleiro new_2: 3245661836372102745
+      correndo cavaleiro new_20: -6775226773137723454
+      correndo cavaleiro new_21: 3553768760402942002
+      correndo cavaleiro new_22: 3873461456460060925
+      correndo cavaleiro new_23: 4915291047489301252
+      correndo cavaleiro new_24: 7045992222069626103
+      correndo cavaleiro new_25: 5110462811839514083
+      correndo cavaleiro new_26: 2170575060910580937
+      correndo cavaleiro new_27: -9046049525952495211
+      correndo cavaleiro new_28: 1884882763112363161
+      correndo cavaleiro new_29: -996336764719137189
+      correndo cavaleiro new_3: 1218336299349500633
+      correndo cavaleiro new_30: 8600394530824796073
+      correndo cavaleiro new_31: -5386245287056177641
+      correndo cavaleiro new_32: -1109525036391993846
+      correndo cavaleiro new_33: -6039467348692673560
+      correndo cavaleiro new_34: 6751782612054551819
+      correndo cavaleiro new_35: 6344677539185009129
+      correndo cavaleiro new_36: 6967988350272931130
+      correndo cavaleiro new_37: 8849469231468720980
+      correndo cavaleiro new_38: -4261261147001949748
+      correndo cavaleiro new_39: -7485080321981054468
+      correndo cavaleiro new_4: 6198008655038339098
+      correndo cavaleiro new_40: 5071107062333187692
+      correndo cavaleiro new_41: -4621320596875598136
+      correndo cavaleiro new_42: -7221856616445044853
+      correndo cavaleiro new_43: 7473740104905713992
+      correndo cavaleiro new_44: -8812111325483150749
+      correndo cavaleiro new_45: -8460710730527249977
+      correndo cavaleiro new_46: -1393835614558817362
+      correndo cavaleiro new_47: 8063986808517523941
+      correndo cavaleiro new_48: 2412773533539052511
+      correndo cavaleiro new_49: 1985710502201745785
+      correndo cavaleiro new_5: -1565970574497233103
+      correndo cavaleiro new_50: 8364393781089705509
+      correndo cavaleiro new_51: 6720700356561799860
+      correndo cavaleiro new_52: 5526854240994320735
+      correndo cavaleiro new_53: 6064301247745418634
+      correndo cavaleiro new_54: 2704478064510850289
+      correndo cavaleiro new_55: -4329781953727874108
+      correndo cavaleiro new_56: -8843303860574307442
+      correndo cavaleiro new_57: -2179421872676675873
+      correndo cavaleiro new_58: 1516253440690535239
+      correndo cavaleiro new_59: -143936086881086602
+      correndo cavaleiro new_6: 8203749610901146672
+      correndo cavaleiro new_60: -2380844926603229892
+      correndo cavaleiro new_61: 2480557304479165510
+      correndo cavaleiro new_62: -1674541009713249631
+      correndo cavaleiro new_63: -1802708476006491711
+      correndo cavaleiro new_64: -1861651014279424088
+      correndo cavaleiro new_65: 8511121577606483816
+      correndo cavaleiro new_66: 5720440752061384824
+      correndo cavaleiro new_67: -4451747842024617526
+      correndo cavaleiro new_68: 2433070425355169035
+      correndo cavaleiro new_69: -1992532650561587233
+      correndo cavaleiro new_7: -7417005039883083068
+      correndo cavaleiro new_70: 7287562433253951728
+      correndo cavaleiro new_71: -7817231343556777143
+      correndo cavaleiro new_72: -3274412273944017764
+      correndo cavaleiro new_73: -9180784788985166371
+      correndo cavaleiro new_74: 4420274318911215067
+      correndo cavaleiro new_75: -4609792745093429057
+      correndo cavaleiro new_76: 5817313835940248752
+      correndo cavaleiro new_77: -8839240596517051094
+      correndo cavaleiro new_78: -7265581725758327398
+      correndo cavaleiro new_79: 7893281396732357437
+      correndo cavaleiro new_8: -4278516990803369906
+      correndo cavaleiro new_80: 6163664709808080621
+      correndo cavaleiro new_81: 7246091195247670453
+      correndo cavaleiro new_82: -371826813493522956
+      correndo cavaleiro new_83: 4254401306864332702
+      correndo cavaleiro new_84: -8809102894968358448
+      correndo cavaleiro new_85: -1346485948515863919
+      correndo cavaleiro new_86: 4918012422476179772
+      correndo cavaleiro new_87: -8017593498453883710
+      correndo cavaleiro new_88: 1219424399706748438
+      correndo cavaleiro new_89: -1631497035060618981
+      correndo cavaleiro new_9: -2942917510957786521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
