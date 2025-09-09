@@ -81,13 +81,13 @@
                     "name": "Sprint",
                     "type": "Button",
                     "id": "641cd816-40e6-41b4-8c3d-04687c349290",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
                 },
                 {
-                    "name": "New action",
+                    "name": "Dash",
                     "type": "Button",
                     "id": "a7e1ac93-d8cc-4d63-abe9-aedd323fdf93",
                     "expectedControlType": "",
@@ -485,11 +485,11 @@
                 {
                     "name": "",
                     "id": "5afc24f0-47ac-425d-9f1a-6a89a70f3e0f",
-                    "path": "",
+                    "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
-                    "action": "New action",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "Dash",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
