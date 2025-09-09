@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4726e3758da80ad42a4d29851d72af85
+guid: 8167531e4f6c8494a9c96cb141698fc4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6310612860387705631
-    second: backgrondCasltel_0
+      213: 7148922051833082272
+    second: Background1loop_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: backgrondCasltel_0
+      name: Background1loop_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 902
+        width: 1536
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f13cb6226fcc39750800000000000000
-      internalID: 6310612860387705631
+      spriteID: 0a1b772cab2163360800000000000000
+      internalID: 7148922051833082272
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      backgrondCasltel_0: 6310612860387705631
+      Background1loop_0: 7148922051833082272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
