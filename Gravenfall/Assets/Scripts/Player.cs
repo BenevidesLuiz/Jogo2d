@@ -1,8 +1,7 @@
-﻿using System;
+﻿
 using System.Collections;
-using UnityEditor.ShaderGraph.Internal;
 using UnityEngine;
-using UnityEngine.InputSystem;
+
 
 public class Player : MonoBehaviour
 {
@@ -24,12 +23,12 @@ public class Player : MonoBehaviour
     private float dashTimer = 0f;
     private float lastDashTime = 0;
     private bool isDashing = false;
-    
-   
+
+    private bool attackInput;
 
 
-    
-    
+
+
 
 
     void Awake()
@@ -39,6 +38,9 @@ public class Player : MonoBehaviour
         controls.Player.Move.canceled += ctx => moveInput = Vector2.zero;
         controls.Player.Dash.performed += ctx => dashInput = true;
         controls.Player.Dash.canceled += ctx => dashInput = false;
+        controls.Player.Attack.performed += ctx => attackInput = true;
+        controls.Player.Attack.canceled += ctx => attackInput = false;
+
     }
 
     void OnEnable()
@@ -60,7 +62,7 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (!isDashing){
+        if (!isDashing) {
             rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
             if (moveInput.x > 0) {
                 transform.localScale = new Vector3(2, 2, 2);
@@ -81,9 +83,11 @@ public class Player : MonoBehaviour
             if (dashInput && Time.time >= lastDashTime + dashCooldown) {
                 animator.SetBool("dashing", true);
                 StartCoroutine(PerformDash());
-                    
-            }
 
+            }
+            if (attackInput) {
+                Attack();
+            }
         }
 
 
@@ -104,20 +108,23 @@ public class Player : MonoBehaviour
         dashTimer = dashDuration;
         lastDashTime = Time.time;
 
-        // Direção baseada no último input
         float dashDirection = Mathf.Sign(moveInput.x);
-        if (dashDirection == 0) dashDirection = transform.localScale.x; // Se parado, usa direção atual
-        
-            while (dashTimer > 0)
-            {
-                rb.linearVelocity = new Vector2(dashDirection * dashForce, rb.linearVelocity.y);
-                dashTimer -= Time.deltaTime;
-                yield return null;
-            }
-        
-        
+        if (dashDirection == 0) dashDirection = transform.localScale.x;
+
+        while (dashTimer > 0)
+        {
+            rb.linearVelocity = new Vector2(dashDirection * dashForce, rb.linearVelocity.y);
+            dashTimer -= Time.deltaTime;
+            yield return null;
+        }
+
+
 
         isDashing = false;
         animator.SetBool("dashing", false);
+    }
+    private void Attack() {
+        animator.SetBool("attacking", true);
+
     }
 }
