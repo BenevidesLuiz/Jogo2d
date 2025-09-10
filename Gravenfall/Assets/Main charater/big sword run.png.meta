@@ -250,10 +250,10 @@ TextureImporter:
       name: big sword run_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1918
-        width: 73
-        height: 90
+        x: 20
+        y: 1917
+        width: 155
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: big sword run_1
       rect:
         serializedVersion: 2
-        x: 354
-        y: 1922
-        width: 77
-        height: 87
+        x: 277
+        y: 1918
+        width: 154
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: big sword run_2
       rect:
         serializedVersion: 2
-        x: 608
-        y: 1926
-        width: 79
-        height: 83
+        x: 534
+        y: 1919
+        width: 153
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: big sword run_3
       rect:
         serializedVersion: 2
-        x: 861
-        y: 1929
-        width: 81
-        height: 81
+        x: 791
+        y: 1919
+        width: 151
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: big sword run_4
       rect:
         serializedVersion: 2
-        x: 1114
-        y: 1930
-        width: 84
-        height: 81
+        x: 1048
+        y: 1920
+        width: 150
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: big sword run_5
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 1928
-        width: 85
-        height: 81
+        x: 1303
+        y: 1919
+        width: 152
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: big sword run_6
       rect:
         serializedVersion: 2
-        x: 1626
-        y: 1925
-        width: 86
-        height: 82
+        x: 1559
+        y: 1919
+        width: 153
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: big sword run_7
       rect:
         serializedVersion: 2
-        x: 1882
-        y: 1923
-        width: 86
-        height: 83
+        x: 1815
+        y: 1918
+        width: 153
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: big sword run_8
       rect:
         serializedVersion: 2
-        x: 90
-        y: 1665
-        width: 87
-        height: 83
+        x: 22
+        y: 1662
+        width: 155
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: big sword run_9
       rect:
         serializedVersion: 2
-        x: 346
-        y: 1663
-        width: 88
-        height: 83
+        x: 278
+        y: 1661
+        width: 156
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: big sword run_10
       rect:
         serializedVersion: 2
-        x: 603
-        y: 1663
-        width: 87
-        height: 83
+        x: 534
+        y: 1662
+        width: 156
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,9 +492,9 @@ TextureImporter:
       name: big sword run_11
       rect:
         serializedVersion: 2
-        x: 859
+        x: 789
         y: 1662
-        width: 87
+        width: 157
         height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -514,9 +514,9 @@ TextureImporter:
       name: big sword run_12
       rect:
         serializedVersion: 2
-        x: 1116
+        x: 1045
         y: 1662
-        width: 86
+        width: 157
         height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -536,9 +536,9 @@ TextureImporter:
       name: big sword run_13
       rect:
         serializedVersion: 2
-        x: 1373
+        x: 1301
         y: 1662
-        width: 86
+        width: 158
         height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -558,9 +558,9 @@ TextureImporter:
       name: big sword run_14
       rect:
         serializedVersion: 2
-        x: 1630
+        x: 1557
         y: 1662
-        width: 85
+        width: 158
         height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -580,9 +580,9 @@ TextureImporter:
       name: big sword run_15
       rect:
         serializedVersion: 2
-        x: 1889
+        x: 1814
         y: 1662
-        width: 82
+        width: 157
         height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -602,9 +602,9 @@ TextureImporter:
       name: big sword run_16
       rect:
         serializedVersion: 2
-        x: 100
+        x: 22
         y: 1405
-        width: 79
+        width: 157
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -624,9 +624,9 @@ TextureImporter:
       name: big sword run_17
       rect:
         serializedVersion: 2
-        x: 359
+        x: 279
         y: 1405
-        width: 77
+        width: 157
         height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -646,9 +646,9 @@ TextureImporter:
       name: big sword run_18
       rect:
         serializedVersion: 2
-        x: 619
+        x: 535
         y: 1405
-        width: 73
+        width: 157
         height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -668,9 +668,9 @@ TextureImporter:
       name: big sword run_19
       rect:
         serializedVersion: 2
-        x: 878
+        x: 791
         y: 1406
-        width: 70
+        width: 157
         height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -690,9 +690,9 @@ TextureImporter:
       name: big sword run_20
       rect:
         serializedVersion: 2
-        x: 1134
+        x: 1045
         y: 1404
-        width: 69
+        width: 158
         height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -712,9 +712,9 @@ TextureImporter:
       name: big sword run_21
       rect:
         serializedVersion: 2
-        x: 1390
+        x: 1300
         y: 1403
-        width: 69
+        width: 159
         height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -734,9 +734,9 @@ TextureImporter:
       name: big sword run_22
       rect:
         serializedVersion: 2
-        x: 1645
+        x: 1556
         y: 1403
-        width: 69
+        width: 158
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -756,9 +756,9 @@ TextureImporter:
       name: big sword run_23
       rect:
         serializedVersion: 2
-        x: 1897
+        x: 1811
         y: 1404
-        width: 73
+        width: 159
         height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -778,10 +778,10 @@ TextureImporter:
       name: big sword run_24
       rect:
         serializedVersion: 2
-        x: 101
-        y: 1151
-        width: 76
-        height: 88
+        x: 19
+        y: 1150
+        width: 158
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,10 +800,10 @@ TextureImporter:
       name: big sword run_25
       rect:
         serializedVersion: 2
-        x: 354
-        y: 1154
-        width: 79
-        height: 86
+        x: 274
+        y: 1150
+        width: 159
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -822,10 +822,10 @@ TextureImporter:
       name: big sword run_26
       rect:
         serializedVersion: 2
-        x: 608
-        y: 1157
-        width: 81
-        height: 83
+        x: 530
+        y: 1150
+        width: 159
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -844,10 +844,10 @@ TextureImporter:
       name: big sword run_27
       rect:
         serializedVersion: 2
-        x: 862
-        y: 1159
-        width: 82
-        height: 82
+        x: 786
+        y: 1150
+        width: 158
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -866,10 +866,10 @@ TextureImporter:
       name: big sword run_28
       rect:
         serializedVersion: 2
-        x: 1115
-        y: 1160
-        width: 85
-        height: 82
+        x: 1043
+        y: 1150
+        width: 157
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,10 +888,10 @@ TextureImporter:
       name: big sword run_29
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 1160
-        width: 86
-        height: 82
+        x: 1300
+        y: 1148
+        width: 156
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,10 +910,10 @@ TextureImporter:
       name: big sword run_30
       rect:
         serializedVersion: 2
-        x: 1626
-        y: 1159
-        width: 86
-        height: 82
+        x: 1555
+        y: 1148
+        width: 157
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: big sword run_31
       rect:
         serializedVersion: 2
-        x: 1882
-        y: 1157
-        width: 86
-        height: 82
+        x: 1811
+        y: 1148
+        width: 157
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -954,10 +954,10 @@ TextureImporter:
       name: big sword run_32
       rect:
         serializedVersion: 2
-        x: 90
-        y: 899
-        width: 86
-        height: 83
+        x: 19
+        y: 892
+        width: 157
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -976,10 +976,10 @@ TextureImporter:
       name: big sword run_33
       rect:
         serializedVersion: 2
-        x: 346
-        y: 898
-        width: 86
-        height: 82
+        x: 275
+        y: 893
+        width: 157
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -998,10 +998,10 @@ TextureImporter:
       name: big sword run_34
       rect:
         serializedVersion: 2
-        x: 602
-        y: 896
-        width: 86
-        height: 83
+        x: 531
+        y: 893
+        width: 157
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1020,10 +1020,10 @@ TextureImporter:
       name: big sword run_35
       rect:
         serializedVersion: 2
-        x: 858
-        y: 896
-        width: 86
-        height: 83
+        x: 787
+        y: 893
+        width: 157
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,10 +1042,10 @@ TextureImporter:
       name: big sword run_36
       rect:
         serializedVersion: 2
-        x: 1115
-        y: 895
-        width: 86
-        height: 84
+        x: 1043
+        y: 893
+        width: 158
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1064,10 +1064,10 @@ TextureImporter:
       name: big sword run_37
       rect:
         serializedVersion: 2
-        x: 1372
-        y: 895
-        width: 85
-        height: 84
+        x: 1299
+        y: 893
+        width: 158
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1086,10 +1086,10 @@ TextureImporter:
       name: big sword run_38
       rect:
         serializedVersion: 2
-        x: 1629
-        y: 895
-        width: 84
-        height: 85
+        x: 1555
+        y: 894
+        width: 158
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1108,9 +1108,9 @@ TextureImporter:
       name: big sword run_39
       rect:
         serializedVersion: 2
-        x: 1886
+        x: 1811
         y: 894
-        width: 83
+        width: 158
         height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1130,10 +1130,10 @@ TextureImporter:
       name: big sword run_40
       rect:
         serializedVersion: 2
-        x: 97
-        y: 638
-        width: 81
-        height: 87
+        x: 20
+        y: 637
+        width: 158
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1152,10 +1152,10 @@ TextureImporter:
       name: big sword run_41
       rect:
         serializedVersion: 2
-        x: 355
-        y: 638
-        width: 79
-        height: 88
+        x: 276
+        y: 637
+        width: 158
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,10 +1174,10 @@ TextureImporter:
       name: big sword run_42
       rect:
         serializedVersion: 2
-        x: 614
-        y: 638
-        width: 76
-        height: 89
+        x: 533
+        y: 636
+        width: 157
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1196,10 +1196,10 @@ TextureImporter:
       name: big sword run_43
       rect:
         serializedVersion: 2
-        x: 873
-        y: 638
-        width: 74
-        height: 90
+        x: 789
+        y: 636
+        width: 158
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1218,10 +1218,10 @@ TextureImporter:
       name: big sword run_44
       rect:
         serializedVersion: 2
-        x: 1132
-        y: 638
-        width: 71
-        height: 91
+        x: 1046
+        y: 636
+        width: 157
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1240,10 +1240,10 @@ TextureImporter:
       name: big sword run_45
       rect:
         serializedVersion: 2
-        x: 1391
-        y: 637
-        width: 67
-        height: 92
+        x: 1301
+        y: 636
+        width: 157
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1262,9 +1262,9 @@ TextureImporter:
       name: big sword run_46
       rect:
         serializedVersion: 2
-        x: 1646
+        x: 1556
         y: 636
-        width: 68
+        width: 158
         height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1284,9 +1284,9 @@ TextureImporter:
       name: big sword run_47
       rect:
         serializedVersion: 2
-        x: 1902
+        x: 1812
         y: 636
-        width: 67
+        width: 157
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1306,9 +1306,9 @@ TextureImporter:
       name: big sword run_48
       rect:
         serializedVersion: 2
-        x: 106
+        x: 20
         y: 381
-        width: 70
+        width: 156
         height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1328,10 +1328,10 @@ TextureImporter:
       name: big sword run_49
       rect:
         serializedVersion: 2
-        x: 358
-        y: 382
-        width: 73
-        height: 90
+        x: 275
+        y: 381
+        width: 156
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

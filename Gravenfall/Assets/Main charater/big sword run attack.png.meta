@@ -107,6 +107,177 @@ TextureImporter:
   - first:
       213: 9211892630537892043
     second: big sword run attack_34
+  - first:
+      213: -1108720499495461333
+    second: big sword run attack_35
+  - first:
+      213: -7639739109046799673
+    second: big sword run attack_36
+  - first:
+      213: 3541140880982237508
+    second: big sword run attack_37
+  - first:
+      213: -1316286240014620411
+    second: big sword run attack_38
+  - first:
+      213: -8710576760125311277
+    second: big sword run attack_39
+  - first:
+      213: -8217960851990241569
+    second: big sword run attack_40
+  - first:
+      213: 5673084489151652684
+    second: big sword run attack_41
+  - first:
+      213: -7533161317672593041
+    second: big sword run attack_42
+  - first:
+      213: 5442737578902386267
+    second: big sword run attack_43
+  - first:
+      213: 8958874890354403430
+    second: big sword run attack_44
+  - first:
+      213: -3620583467947948329
+    second: big sword run attack_45
+  - first:
+      213: 4199996328941617371
+    second: big sword run attack_46
+  - first:
+      213: 2537937713662128791
+    second: big sword run attack_47
+  - first:
+      213: 899858986188842452
+    second: big sword run attack_48
+  - first:
+      213: -7637950823558821
+    second: big sword run attack_49
+  - first:
+      213: -8196514755506312376
+    second: big sword run attack_50
+  - first:
+      213: -3544987256068061772
+    second: big sword run attack_51
+  - first:
+      213: 6890860248754163111
+    second: big sword run attack_52
+  - first:
+      213: -4396101437957737694
+    second: big sword run attack_53
+  - first:
+      213: 8603533572953897538
+    second: big sword run attack_54
+  - first:
+      213: 4053206379707519981
+    second: big sword run attack_55
+  - first:
+      213: -4942930674961354888
+    second: big sword run attack_56
+  - first:
+      213: 258338365977620363
+    second: big sword run attack_57
+  - first:
+      213: -7588540053736248277
+    second: big sword run attack_58
+  - first:
+      213: -1223453365709366948
+    second: big sword run attack_59
+  - first:
+      213: 4013787808978131925
+    second: big sword run attack_60
+  - first:
+      213: 1602982804742547685
+    second: big sword run attack_61
+  - first:
+      213: -5486919670276016646
+    second: big sword run attack_62
+  - first:
+      213: -5260594227119085351
+    second: big sword run attack_63
+  - first:
+      213: -2815792650023959968
+    second: big sword run attack_64
+  - first:
+      213: 1172713211039484053
+    second: big sword run attack_65
+  - first:
+      213: -5008342579459905073
+    second: big sword run attack_66
+  - first:
+      213: -472091977485243930
+    second: big sword run attack_67
+  - first:
+      213: -990399656381578507
+    second: big sword run attack_68
+  - first:
+      213: -3070862207380354315
+    second: big sword run attack_69
+  - first:
+      213: -7929244207061298344
+    second: big sword run attack_70
+  - first:
+      213: -9081837759452805704
+    second: big sword run attack_71
+  - first:
+      213: -6710017512561826050
+    second: big sword run attack_72
+  - first:
+      213: 4751862496987499318
+    second: big sword run attack_73
+  - first:
+      213: -8602177311164513448
+    second: big sword run attack_74
+  - first:
+      213: -3382591307213336437
+    second: big sword run attack_75
+  - first:
+      213: -3779957814606026799
+    second: big sword run attack_76
+  - first:
+      213: 7187645381482390291
+    second: big sword run attack_77
+  - first:
+      213: 3040588353999860510
+    second: big sword run attack_78
+  - first:
+      213: 12525360656869525
+    second: big sword run attack_79
+  - first:
+      213: 8646920105455694412
+    second: big sword run attack_80
+  - first:
+      213: 7983497741291127370
+    second: big sword run attack_81
+  - first:
+      213: -8533026983819353384
+    second: big sword run attack_82
+  - first:
+      213: 2171042373998180326
+    second: big sword run attack_83
+  - first:
+      213: -9073991484357541040
+    second: big sword run attack_84
+  - first:
+      213: -1838790899014440983
+    second: big sword run attack_85
+  - first:
+      213: 7011816813025011923
+    second: big sword run attack_86
+  - first:
+      213: 2601286253178257523
+    second: big sword run attack_87
+  - first:
+      213: -5890116141700620466
+    second: big sword run attack_88
+  - first:
+      213: 2166866005121844144
+    second: big sword run attack_89
+  - first:
+      213: 6116714880258096641
+    second: big sword run attack_90
+  - first:
+      213: -1601758513467903113
+    second: big sword run attack_91
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -205,10 +376,10 @@ TextureImporter:
       name: big sword run attack_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1918
-        width: 73
-        height: 90
+        x: 15
+        y: 2428
+        width: 160
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,10 +398,10 @@ TextureImporter:
       name: big sword run attack_1
       rect:
         serializedVersion: 2
-        x: 358
-        y: 1918
-        width: 73
-        height: 90
+        x: 272
+        y: 2430
+        width: 160
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +420,10 @@ TextureImporter:
       name: big sword run attack_2
       rect:
         serializedVersion: 2
-        x: 614
-        y: 1914
-        width: 73
-        height: 94
+        x: 531
+        y: 2432
+        width: 157
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,10 +442,10 @@ TextureImporter:
       name: big sword run attack_3
       rect:
         serializedVersion: 2
-        x: 870
-        y: 1914
-        width: 73
-        height: 94
+        x: 789
+        y: 2433
+        width: 155
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,10 +464,10 @@ TextureImporter:
       name: big sword run attack_4
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 1917
-        width: 73
-        height: 91
+        x: 1048
+        y: 2432
+        width: 153
+        height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +486,10 @@ TextureImporter:
       name: big sword run attack_5
       rect:
         serializedVersion: 2
-        x: 1382
-        y: 1915
-        width: 76
-        height: 92
+        x: 1307
+        y: 2432
+        width: 150
+        height: 106
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,10 +508,10 @@ TextureImporter:
       name: big sword run attack_6
       rect:
         serializedVersion: 2
-        x: 1638
-        y: 1915
-        width: 78
-        height: 91
+        x: 1567
+        y: 2431
+        width: 147
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,10 +530,10 @@ TextureImporter:
       name: big sword run attack_7
       rect:
         serializedVersion: 2
-        x: 1894
-        y: 1916
-        width: 80
-        height: 88
+        x: 1827
+        y: 2432
+        width: 143
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,10 +552,10 @@ TextureImporter:
       name: big sword run attack_8
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1664
-        width: 80
-        height: 82
+        x: 2087
+        y: 2432
+        width: 140
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,10 +574,10 @@ TextureImporter:
       name: big sword run attack_9
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1664
-        width: 80
-        height: 80
+        x: 2347
+        y: 2432
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,10 +596,10 @@ TextureImporter:
       name: big sword run attack_10
       rect:
         serializedVersion: 2
-        x: 616
-        y: 1663
-        width: 76
-        height: 87
+        x: 43
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,10 +618,10 @@ TextureImporter:
       name: big sword run attack_11
       rect:
         serializedVersion: 2
-        x: 873
-        y: 1662
-        width: 70
-        height: 92
+        x: 299
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -469,10 +640,10 @@ TextureImporter:
       name: big sword run attack_12
       rect:
         serializedVersion: 2
-        x: 1130
-        y: 1661
-        width: 63
-        height: 95
+        x: 555
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,10 +662,10 @@ TextureImporter:
       name: big sword run attack_13
       rect:
         serializedVersion: 2
-        x: 1387
-        y: 1660
-        width: 62
-        height: 98
+        x: 811
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -513,10 +684,10 @@ TextureImporter:
       name: big sword run attack_14
       rect:
         serializedVersion: 2
-        x: 1644
-        y: 1660
-        width: 63
-        height: 100
+        x: 1067
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -535,10 +706,10 @@ TextureImporter:
       name: big sword run attack_15
       rect:
         serializedVersion: 2
-        x: 1900
-        y: 1660
-        width: 64
-        height: 100
+        x: 1323
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -557,10 +728,10 @@ TextureImporter:
       name: big sword run attack_16
       rect:
         serializedVersion: 2
-        x: 108
-        y: 1404
-        width: 61
-        height: 100
+        x: 1579
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -579,10 +750,10 @@ TextureImporter:
       name: big sword run attack_17
       rect:
         serializedVersion: 2
-        x: 364
-        y: 1404
-        width: 55
-        height: 100
+        x: 1835
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,10 +772,10 @@ TextureImporter:
       name: big sword run attack_18
       rect:
         serializedVersion: 2
-        x: 620
-        y: 1404
-        width: 48
-        height: 100
+        x: 2091
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -623,10 +794,10 @@ TextureImporter:
       name: big sword run attack_19
       rect:
         serializedVersion: 2
-        x: 876
-        y: 1404
-        width: 44
-        height: 100
+        x: 2347
+        y: 2176
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -645,10 +816,10 @@ TextureImporter:
       name: big sword run attack_20
       rect:
         serializedVersion: 2
-        x: 1132
-        y: 1404
-        width: 45
-        height: 100
+        x: 43
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -667,10 +838,10 @@ TextureImporter:
       name: big sword run attack_21
       rect:
         serializedVersion: 2
-        x: 1388
-        y: 1404
-        width: 48
-        height: 100
+        x: 299
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -689,10 +860,10 @@ TextureImporter:
       name: big sword run attack_22
       rect:
         serializedVersion: 2
-        x: 1644
-        y: 1404
-        width: 52
-        height: 100
+        x: 555
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -711,10 +882,10 @@ TextureImporter:
       name: big sword run attack_23
       rect:
         serializedVersion: 2
-        x: 1900
-        y: 1404
-        width: 55
-        height: 100
+        x: 811
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -733,10 +904,10 @@ TextureImporter:
       name: big sword run attack_24
       rect:
         serializedVersion: 2
-        x: 108
-        y: 1148
-        width: 59
-        height: 100
+        x: 1067
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -755,10 +926,10 @@ TextureImporter:
       name: big sword run attack_25
       rect:
         serializedVersion: 2
-        x: 364
-        y: 1148
-        width: 61
-        height: 100
+        x: 1323
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -777,10 +948,10 @@ TextureImporter:
       name: big sword run attack_26
       rect:
         serializedVersion: 2
-        x: 620
-        y: 1148
-        width: 63
-        height: 100
+        x: 1579
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -799,10 +970,10 @@ TextureImporter:
       name: big sword run attack_27
       rect:
         serializedVersion: 2
-        x: 876
-        y: 1148
-        width: 64
-        height: 100
+        x: 1835
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -821,10 +992,10 @@ TextureImporter:
       name: big sword run attack_28
       rect:
         serializedVersion: 2
-        x: 1132
-        y: 1148
-        width: 64
-        height: 100
+        x: 2091
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -843,10 +1014,10 @@ TextureImporter:
       name: big sword run attack_29
       rect:
         serializedVersion: 2
-        x: 1388
-        y: 1148
-        width: 63
-        height: 100
+        x: 2347
+        y: 1920
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -865,10 +1036,10 @@ TextureImporter:
       name: big sword run attack_30
       rect:
         serializedVersion: 2
-        x: 1643
-        y: 1148
-        width: 64
-        height: 99
+        x: 43
+        y: 1664
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -887,10 +1058,10 @@ TextureImporter:
       name: big sword run attack_31
       rect:
         serializedVersion: 2
-        x: 1898
-        y: 1149
-        width: 66
-        height: 96
+        x: 299
+        y: 1664
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -909,10 +1080,10 @@ TextureImporter:
       name: big sword run attack_32
       rect:
         serializedVersion: 2
-        x: 104
-        y: 893
-        width: 68
-        height: 95
+        x: 555
+        y: 1664
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -931,10 +1102,10 @@ TextureImporter:
       name: big sword run attack_33
       rect:
         serializedVersion: 2
-        x: 359
-        y: 894
-        width: 69
-        height: 92
+        x: 811
+        y: 1664
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -953,10 +1124,10 @@ TextureImporter:
       name: big sword run attack_34
       rect:
         serializedVersion: 2
-        x: 614
-        y: 894
-        width: 73
-        height: 90
+        x: 1067
+        y: 1664
+        width: 136
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -967,6 +1138,1260 @@ TextureImporter:
       bones: []
       spriteID: bc0ff307a8737df70800000000000000
       internalID: 9211892630537892043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_35
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1664
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e116874980d90f0800000000000000
+      internalID: -1108720499495461333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_36
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1664
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c23b94e1c13af590800000000000000
+      internalID: -7639739109046799673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_37
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1664
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4416f869ed8a42130800000000000000
+      internalID: 3541140880982237508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_38
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1664
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509a13183ac9bbde0800000000000000
+      internalID: -1316286240014620411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_39
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1664
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d635f75690dd1780800000000000000
+      internalID: -8710576760125311277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde1e0f4520f3fd80800000000000000
+      internalID: -8217960851990241569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43a9ac1948dabe40800000000000000
+      internalID: 5673084489151652684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_42
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f695968a1b5d47790800000000000000
+      internalID: -7533161317672593041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_43
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56752cbdfc788b40800000000000000
+      internalID: 5442737578902386267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_44
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668adb22f31545c70800000000000000
+      internalID: 8958874890354403430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_45
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d68f41c48a11cdc0800000000000000
+      internalID: -3620583467947948329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_46
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0828c9862694a30800000000000000
+      internalID: 4199996328941617371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_47
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f5ec67e0983320800000000000000
+      internalID: 2537937713662128791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_48
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5aab3faf0fc7c00800000000000000
+      internalID: 899858986188842452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_49
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1408
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51995ef25dd4eff0800000000000000
+      internalID: -7637950823558821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1140
+        width: 124
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b6cc1c141204e80800000000000000
+      internalID: -8196514755506312376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_51
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1129
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5c6cc6fdcadcec0800000000000000
+      internalID: -3544987256068061772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_52
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1120
+        width: 98
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0adb03e041af50800000000000000
+      internalID: 6890860248754163111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_53
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1113
+        width: 83
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223f1f1a809edf2c0800000000000000
+      internalID: -4396101437957737694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_54
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1109
+        width: 73
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a701d7334e56770800000000000000
+      internalID: 8603533572953897538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_55
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1107
+        width: 73
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de350df3ab1ef3830800000000000000
+      internalID: 4053206379707519981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_56
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1107
+        width: 73
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87feb896dbe276bb0800000000000000
+      internalID: -4942930674961354888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_57
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1110
+        width: 80
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f63f7006dc59300800000000000000
+      internalID: 258338365977620363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_58
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1115
+        width: 95
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c2a35e60710b690800000000000000
+      internalID: -7588540053736248277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_59
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1123
+        width: 109
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5913a165ab650fe0800000000000000
+      internalID: -1223453365709366948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_60
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 875
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db5fed0fb6d3b730800000000000000
+      internalID: 4013787808978131925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 884
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e82db13e50fe3610800000000000000
+      internalID: 1602982804742547685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_62
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 894
+        width: 140
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5381e71ab8ad3b0800000000000000
+      internalID: -5486919670276016646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_63
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 905
+        width: 150
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a8191c6d9ef6b0800000000000000
+      internalID: -5260594227119085351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_64
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 918
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0628a26e08b4ce8d0800000000000000
+      internalID: -2815792650023959968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_65
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 917
+        width: 163
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5988a6fb370564010800000000000000
+      internalID: 1172713211039484053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_66
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 929
+        width: 167
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc924d595face7ab0800000000000000
+      internalID: -5008342579459905073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_67
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 931
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e92ea409dac279f0800000000000000
+      internalID: -472091977485243930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_68
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 931
+        width: 171
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f205b782c46142f0800000000000000
+      internalID: -990399656381578507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_69
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 931
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa0ceea71b1265d0800000000000000
+      internalID: -3070862207380354315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_70
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 931
+        width: 150
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85399c4976aa5f190800000000000000
+      internalID: -7929244207061298344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50618eca4d6f180800000000000000
+      internalID: -9081837759452805704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 675
+        width: 163
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef62a1f9f9a31e2a0800000000000000
+      internalID: -6710017512561826050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_73
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 675
+        width: 158
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bc07ab3c102f140800000000000000
+      internalID: 4751862496987499318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_74
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 675
+        width: 151
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8534d11df4dee9880800000000000000
+      internalID: -8602177311164513448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_75
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 675
+        width: 151
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b809939b02f9e01d0800000000000000
+      internalID: -3382591307213336437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_76
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 675
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7227a0564ea8bc0800000000000000
+      internalID: -3779957814606026799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_77
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 675
+        width: 133
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3132cb68465afb360800000000000000
+      internalID: 7187645381482390291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_78
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 675
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13f95c8ff6523a20800000000000000
+      internalID: 3040588353999860510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_79
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 675
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e2a8cfbf7c2000800000000000000
+      internalID: 12525360656869525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_80
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 675
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42bed6c508000870800000000000000
+      internalID: 8646920105455694412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_81
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 675
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a428ac6b5e41bce60800000000000000
+      internalID: 7983497741291127370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 419
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ef9a0b29949980800000000000000
+      internalID: -8533026983819353384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_83
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 419
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e77b765987112e10800000000000000
+      internalID: 2171042373998180326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_84
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 419
+        width: 154
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05303ff22d4b21280800000000000000
+      internalID: -9073991484357541040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_85
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 419
+        width: 164
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7e5007b6d4b76e0800000000000000
+      internalID: -1838790899014440983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_86
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 419
+        width: 170
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8a772cd3afe4160800000000000000
+      internalID: 7011816813025011923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_87
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 419
+        width: 171
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3700cc7a010a91420800000000000000
+      internalID: 2601286253178257523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_88
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 419
+        width: 168
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fd328839a124ea0800000000000000
+      internalID: -5890116141700620466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_89
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 411
+        width: 160
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3482fa621421e10800000000000000
+      internalID: 2166866005121844144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_90
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 411
+        width: 151
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e312e96cfe2e450800000000000000
+      internalID: 6116714880258096641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run attack_91
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 392
+        width: 149
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773b9c45e1965c9e0800000000000000
+      internalID: -1601758513467903113
       vertices: []
       indices: 
       edges: []
@@ -1014,12 +2439,69 @@ TextureImporter:
       big sword run attack_32: 7794844522938362979
       big sword run attack_33: 9204894544474141051
       big sword run attack_34: 9211892630537892043
+      big sword run attack_35: -1108720499495461333
+      big sword run attack_36: -7639739109046799673
+      big sword run attack_37: 3541140880982237508
+      big sword run attack_38: -1316286240014620411
+      big sword run attack_39: -8710576760125311277
       big sword run attack_4: 1854949048930051651
+      big sword run attack_40: -8217960851990241569
+      big sword run attack_41: 5673084489151652684
+      big sword run attack_42: -7533161317672593041
+      big sword run attack_43: 5442737578902386267
+      big sword run attack_44: 8958874890354403430
+      big sword run attack_45: -3620583467947948329
+      big sword run attack_46: 4199996328941617371
+      big sword run attack_47: 2537937713662128791
+      big sword run attack_48: 899858986188842452
+      big sword run attack_49: -7637950823558821
       big sword run attack_5: -2593235692289072444
+      big sword run attack_50: -8196514755506312376
+      big sword run attack_51: -3544987256068061772
+      big sword run attack_52: 6890860248754163111
+      big sword run attack_53: -4396101437957737694
+      big sword run attack_54: 8603533572953897538
+      big sword run attack_55: 4053206379707519981
+      big sword run attack_56: -4942930674961354888
+      big sword run attack_57: 258338365977620363
+      big sword run attack_58: -7588540053736248277
+      big sword run attack_59: -1223453365709366948
       big sword run attack_6: -1417470916583859935
+      big sword run attack_60: 4013787808978131925
+      big sword run attack_61: 1602982804742547685
+      big sword run attack_62: -5486919670276016646
+      big sword run attack_63: -5260594227119085351
+      big sword run attack_64: -2815792650023959968
+      big sword run attack_65: 1172713211039484053
+      big sword run attack_66: -5008342579459905073
+      big sword run attack_67: -472091977485243930
+      big sword run attack_68: -990399656381578507
+      big sword run attack_69: -3070862207380354315
       big sword run attack_7: 855070386127087554
+      big sword run attack_70: -7929244207061298344
+      big sword run attack_71: -9081837759452805704
+      big sword run attack_72: -6710017512561826050
+      big sword run attack_73: 4751862496987499318
+      big sword run attack_74: -8602177311164513448
+      big sword run attack_75: -3382591307213336437
+      big sword run attack_76: -3779957814606026799
+      big sword run attack_77: 7187645381482390291
+      big sword run attack_78: 3040588353999860510
+      big sword run attack_79: 12525360656869525
       big sword run attack_8: 6805811947817714260
+      big sword run attack_80: 8646920105455694412
+      big sword run attack_81: 7983497741291127370
+      big sword run attack_82: -8533026983819353384
+      big sword run attack_83: 2171042373998180326
+      big sword run attack_84: -9073991484357541040
+      big sword run attack_85: -1838790899014440983
+      big sword run attack_86: 7011816813025011923
+      big sword run attack_87: 2601286253178257523
+      big sword run attack_88: -5890116141700620466
+      big sword run attack_89: 2166866005121844144
       big sword run attack_9: -7125555537980897693
+      big sword run attack_90: 6116714880258096641
+      big sword run attack_91: -1601758513467903113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
