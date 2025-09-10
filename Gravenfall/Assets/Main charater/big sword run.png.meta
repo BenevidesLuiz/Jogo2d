@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: b6a4bc657ad2da04895a53b9c24849bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4946600526051406604
+    second: big sword run_0
+  - first:
+      213: 5907032037159412969
+    second: big sword run_1
+  - first:
+      213: -5897286420301641979
+    second: big sword run_2
+  - first:
+      213: 1660731263261428280
+    second: big sword run_3
+  - first:
+      213: 3508035257655603312
+    second: big sword run_4
+  - first:
+      213: 676107894349398872
+    second: big sword run_5
+  - first:
+      213: 2361847408718664818
+    second: big sword run_6
+  - first:
+      213: -1986017907715185897
+    second: big sword run_7
+  - first:
+      213: 4555641441875785161
+    second: big sword run_8
+  - first:
+      213: -2472316064649799469
+    second: big sword run_9
+  - first:
+      213: 4046348061142722741
+    second: big sword run_10
+  - first:
+      213: -8029548639364281466
+    second: big sword run_11
+  - first:
+      213: -4491263982359798202
+    second: big sword run_12
+  - first:
+      213: 2380053242476474054
+    second: big sword run_13
+  - first:
+      213: -6002905208195720778
+    second: big sword run_14
+  - first:
+      213: -8738820104754499160
+    second: big sword run_15
+  - first:
+      213: -4352678505104857940
+    second: big sword run_16
+  - first:
+      213: 1003545458123594200
+    second: big sword run_17
+  - first:
+      213: -3862340140860258606
+    second: big sword run_18
+  - first:
+      213: 3181036179417014525
+    second: big sword run_19
+  - first:
+      213: 1897146312402527772
+    second: big sword run_20
+  - first:
+      213: 2191773547556612446
+    second: big sword run_21
+  - first:
+      213: 2112449319739797238
+    second: big sword run_22
+  - first:
+      213: -7372866505972386461
+    second: big sword run_23
+  - first:
+      213: 7320317165735027
+    second: big sword run_24
+  - first:
+      213: 6845484310599170635
+    second: big sword run_25
+  - first:
+      213: 1400214140366842438
+    second: big sword run_26
+  - first:
+      213: -5955075231259868889
+    second: big sword run_27
+  - first:
+      213: -6008949937832033123
+    second: big sword run_28
+  - first:
+      213: -5259329513653103587
+    second: big sword run_29
+  - first:
+      213: -5132620779201435109
+    second: big sword run_30
+  - first:
+      213: -3829352525683444264
+    second: big sword run_31
+  - first:
+      213: 8603463692971278945
+    second: big sword run_32
+  - first:
+      213: -1159517192324128811
+    second: big sword run_33
+  - first:
+      213: -8166558361831925995
+    second: big sword run_34
+  - first:
+      213: 18611827706383537
+    second: big sword run_35
+  - first:
+      213: -6625048519872744089
+    second: big sword run_36
+  - first:
+      213: 770847901624269839
+    second: big sword run_37
+  - first:
+      213: -2435453669274388138
+    second: big sword run_38
+  - first:
+      213: -4769255811850852786
+    second: big sword run_39
+  - first:
+      213: 816284507150816914
+    second: big sword run_40
+  - first:
+      213: 3052600266147014868
+    second: big sword run_41
+  - first:
+      213: 7795011892836536604
+    second: big sword run_42
+  - first:
+      213: 7461903036480275254
+    second: big sword run_43
+  - first:
+      213: -3426668704319333442
+    second: big sword run_44
+  - first:
+      213: -51881792303065725
+    second: big sword run_45
+  - first:
+      213: -1877460860760022778
+    second: big sword run_46
+  - first:
+      213: 2840845838287057145
+    second: big sword run_47
+  - first:
+      213: -4042762018325618539
+    second: big sword run_48
+  - first:
+      213: 7206838021248474948
+    second: big sword run_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big sword run_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1918
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc02fe97052a5bb0800000000000000
+      internalID: -4946600526051406604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1922
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e42dbb475ef9f150800000000000000
+      internalID: 5907032037159412969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1926
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5078f23fe31a82ea0800000000000000
+      internalID: -5897286420301641979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1929
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a4516f84a1c0710800000000000000
+      internalID: 1660731263261428280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_4
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1930
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070bb100b7b0fa030800000000000000
+      internalID: 3508035257655603312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_5
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1928
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85388883c84026900800000000000000
+      internalID: 676107894349398872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_6
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1925
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2745a5264b7f6c020800000000000000
+      internalID: 2361847408718664818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_7
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1923
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713621d3c3f3074e0800000000000000
+      internalID: -1986017907715185897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1665
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5fd0b21c3e83f30800000000000000
+      internalID: 4555641441875785161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1663
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89e0a53a190bdd0800000000000000
+      internalID: -2472316064649799469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_10
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1663
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8a0068f14872830800000000000000
+      internalID: 4046348061142722741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_11
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1662
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b88fb0e00519090800000000000000
+      internalID: -8029548639364281466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1662
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e10fa2433dba1c0800000000000000
+      internalID: -4491263982359798202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_13
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1662
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cea35060d5a70120800000000000000
+      internalID: 2380053242476474054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_14
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1662
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9d625948561bca0800000000000000
+      internalID: -6002905208195720778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_15
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1662
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1f01c3a6979b680800000000000000
+      internalID: -8738820104754499160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1405
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca42fb906fd2893c0800000000000000
+      internalID: -4352678505104857940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1405
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9d963f64f4ded00800000000000000
+      internalID: 1003545458123594200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1405
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ca4efa16366ac0800000000000000
+      internalID: -3862340140860258606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_19
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1406
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df021d32d8f452c20800000000000000
+      internalID: 3181036179417014525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_20
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1404
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e1b50584045a10800000000000000
+      internalID: 1897146312402527772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_21
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1403
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a532dd6eba6e10800000000000000
+      internalID: 2191773547556612446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1403
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2b1dc67de05d10800000000000000
+      internalID: 2112449319739797238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_23
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1404
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f327d9f05ea990800000000000000
+      internalID: -7372866505972386461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1151
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c8e482ac10a1000800000000000000
+      internalID: 7320317165735027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1154
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4af5c826bb000f50800000000000000
+      internalID: 6845484310599170635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1157
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a6b0e875f8e6310800000000000000
+      internalID: 1400214140366842438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_27
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1159
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7214706e0a25b5da0800000000000000
+      internalID: -5955075231259868889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_28
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1160
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d948a6a4edbeb9ca0800000000000000
+      internalID: -6008949937832033123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_29
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1160
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d149af52cab1307b0800000000000000
+      internalID: -5259329513653103587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_30
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1159
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae8e8589445c8b0800000000000000
+      internalID: -5132620779201435109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_31
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1157
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5b4eaaa286bdac0800000000000000
+      internalID: -3829352525683444264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 899
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162068945a4a56770800000000000000
+      internalID: 8603463692971278945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 898
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfdf88c14198efe0800000000000000
+      internalID: -1159517192324128811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_34
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 896
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517138d207e8aae80800000000000000
+      internalID: -8166558361831925995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 896
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc4f03db5f124000800000000000000
+      internalID: 18611827706383537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_36
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 895
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f141e8791f04a0800000000000000
+      internalID: -6625048519872744089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_37
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 895
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7b28151a92ba00800000000000000
+      internalID: 770847901624269839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_38
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 895
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6597af79ac7833ed0800000000000000
+      internalID: -2435453669274388138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_39
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 894
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a9a39b1330ddb0800000000000000
+      internalID: -4769255811850852786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 638
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29611643f66045b00800000000000000
+      internalID: 816284507150816914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 638
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8a4f8c4c30d5a20800000000000000
+      internalID: 3052600266147014868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_42
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 638
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11977c44027d2c60800000000000000
+      internalID: 7795011892836536604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_43
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 638
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c0ddd6410e8760800000000000000
+      internalID: 7461903036480275254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_44
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 638
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb191cf7f60270d0800000000000000
+      internalID: -3426668704319333442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_45
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 637
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851777e8cda74ff0800000000000000
+      internalID: -51881792303065725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_46
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 636
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60123ba5b4be1f5e0800000000000000
+      internalID: -1877460860760022778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_47
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 636
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f03fbc0d36bc6720800000000000000
+      internalID: 2840845838287057145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 381
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590a2422d5935e7c0800000000000000
+      internalID: -4042762018325618539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword run_49
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 382
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f5b423ff4d30460800000000000000
+      internalID: 7206838021248474948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      big sword run_0: -4946600526051406604
+      big sword run_1: 5907032037159412969
+      big sword run_10: 4046348061142722741
+      big sword run_11: -8029548639364281466
+      big sword run_12: -4491263982359798202
+      big sword run_13: 2380053242476474054
+      big sword run_14: -6002905208195720778
+      big sword run_15: -8738820104754499160
+      big sword run_16: -4352678505104857940
+      big sword run_17: 1003545458123594200
+      big sword run_18: -3862340140860258606
+      big sword run_19: 3181036179417014525
+      big sword run_2: -5897286420301641979
+      big sword run_20: 1897146312402527772
+      big sword run_21: 2191773547556612446
+      big sword run_22: 2112449319739797238
+      big sword run_23: -7372866505972386461
+      big sword run_24: 7320317165735027
+      big sword run_25: 6845484310599170635
+      big sword run_26: 1400214140366842438
+      big sword run_27: -5955075231259868889
+      big sword run_28: -6008949937832033123
+      big sword run_29: -5259329513653103587
+      big sword run_3: 1660731263261428280
+      big sword run_30: -5132620779201435109
+      big sword run_31: -3829352525683444264
+      big sword run_32: 8603463692971278945
+      big sword run_33: -1159517192324128811
+      big sword run_34: -8166558361831925995
+      big sword run_35: 18611827706383537
+      big sword run_36: -6625048519872744089
+      big sword run_37: 770847901624269839
+      big sword run_38: -2435453669274388138
+      big sword run_39: -4769255811850852786
+      big sword run_4: 3508035257655603312
+      big sword run_40: 816284507150816914
+      big sword run_41: 3052600266147014868
+      big sword run_42: 7795011892836536604
+      big sword run_43: 7461903036480275254
+      big sword run_44: -3426668704319333442
+      big sword run_45: -51881792303065725
+      big sword run_46: -1877460860760022778
+      big sword run_47: 2840845838287057145
+      big sword run_48: -4042762018325618539
+      big sword run_49: 7206838021248474948
+      big sword run_5: 676107894349398872
+      big sword run_6: 2361847408718664818
+      big sword run_7: -1986017907715185897
+      big sword run_8: 4555641441875785161
+      big sword run_9: -2472316064649799469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
