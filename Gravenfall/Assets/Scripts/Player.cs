@@ -1,6 +1,7 @@
 ﻿
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 
 public class Player : MonoBehaviour
@@ -9,6 +10,10 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private PlayerMove controls;
     private Animator animator;
+    private BoxCollider2D boxCollider;
+    private SpriteRenderer sprite;
+
+    private Vector2 collisorSize;
 
     public float speed = 5f;
     private Vector2 moveInput;
@@ -25,7 +30,7 @@ public class Player : MonoBehaviour
     private bool isDashing = false;
 
     private bool attackInput;
-
+    private bool canAttack = true;
 
 
 
@@ -57,11 +62,20 @@ public class Player : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-
+        boxCollider = GetComponent<BoxCollider2D>();
+        sprite = GetComponent<SpriteRenderer>();
+        collisorSize = boxCollider.size;
     }
 
     void FixedUpdate()
     {
+        Vector2 spriteSize = sprite.sprite.bounds.size;
+        if (spriteSize.y <= collisorSize.y) {
+            boxCollider.size = new Vector2(collisorSize.x, spriteSize.y);
+        } else {
+            boxCollider.offset = new Vector2(0, (spriteSize.y - collisorSize.y) / -2);
+        }
+            
         if (!isDashing) {
             rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
             if (moveInput.x > 0) {
@@ -85,8 +99,8 @@ public class Player : MonoBehaviour
                 StartCoroutine(PerformDash());
 
             }
-            if (attackInput) {
-                Attack();
+            if (canAttack) {
+                StartCoroutine(AttackRoutine());
             }
         }
 
@@ -123,8 +137,25 @@ public class Player : MonoBehaviour
         isDashing = false;
         animator.SetBool("dashing", false);
     }
-    private void Attack() {
+    private IEnumerator AttackRoutine()
+    {
+        canAttack = false;
         animator.SetBool("attacking", true);
+        rb.linearVelocity = new Vector2(2, 10);
 
+        yield return new WaitForSeconds(0.5f); 
+        rb.linearVelocity = new Vector2(20, -20);
+
+
+
+
+    
+
+
+
+
+        animator.SetBool("attacking", false);
+        yield return new WaitForSeconds(6f);
+        canAttack = true;
     }
 }
