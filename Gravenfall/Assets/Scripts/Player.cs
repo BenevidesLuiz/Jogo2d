@@ -69,12 +69,7 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
-        Vector2 spriteSize = sprite.sprite.bounds.size;
-        if (spriteSize.y <= collisorSize.y) {
-            boxCollider.size = new Vector2(collisorSize.x, spriteSize.y);
-        } else {
-            boxCollider.offset = new Vector2(0, (spriteSize.y - collisorSize.y) / -2);
-        }
+       
             
         if (!isDashing) {
             rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
@@ -99,7 +94,7 @@ public class Player : MonoBehaviour
                 StartCoroutine(PerformDash());
 
             }
-            if (canAttack) {
+            if (attackInput) {
                 StartCoroutine(AttackRoutine());
             }
         }
@@ -111,7 +106,7 @@ public class Player : MonoBehaviour
         yield return new WaitForSeconds(0.05f);
         if (Mathf.Abs(moveInput.x) == 0)
         {
-            animator.SetBool("running", false);
+            //animator.SetBool("running", false);
         }
 
         stopRunningCoroutine = null;
@@ -141,10 +136,10 @@ public class Player : MonoBehaviour
     {
         canAttack = false;
         animator.SetBool("attacking", true);
-        rb.linearVelocity = new Vector2(2, 10);
+
 
         yield return new WaitForSeconds(0.5f); 
-        rb.linearVelocity = new Vector2(20, -20);
+
 
 
 
