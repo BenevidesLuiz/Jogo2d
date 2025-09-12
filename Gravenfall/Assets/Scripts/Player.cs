@@ -1,6 +1,7 @@
 ﻿
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 
 public class Player : MonoBehaviour
@@ -9,6 +10,10 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private PlayerMove controls;
     private Animator animator;
+    private BoxCollider2D boxCollider;
+    private SpriteRenderer sprite;
+
+    private Vector2 collisorSize;
 
     public float speed = 5f;
     private Vector2 moveInput;
@@ -25,7 +30,7 @@ public class Player : MonoBehaviour
     private bool isDashing = false;
 
     private bool attackInput;
-
+    private bool canAttack = true;
 
 
 
@@ -57,11 +62,15 @@ public class Player : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-
+        boxCollider = GetComponent<BoxCollider2D>();
+        sprite = GetComponent<SpriteRenderer>();
+        collisorSize = boxCollider.size;
     }
 
     void FixedUpdate()
     {
+       
+            
         if (!isDashing) {
             rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
             if (moveInput.x > 0) {
@@ -86,7 +95,7 @@ public class Player : MonoBehaviour
 
             }
             if (attackInput) {
-                Attack();
+                StartCoroutine(AttackRoutine());
             }
         }
 
@@ -97,7 +106,7 @@ public class Player : MonoBehaviour
         yield return new WaitForSeconds(0.05f);
         if (Mathf.Abs(moveInput.x) == 0)
         {
-            animator.SetBool("running", false);
+            //animator.SetBool("running", false);
         }
 
         stopRunningCoroutine = null;
@@ -123,8 +132,25 @@ public class Player : MonoBehaviour
         isDashing = false;
         animator.SetBool("dashing", false);
     }
-    private void Attack() {
+    private IEnumerator AttackRoutine()
+    {
+        canAttack = false;
         animator.SetBool("attacking", true);
 
+
+        yield return new WaitForSeconds(0.5f); 
+
+
+
+
+
+    
+
+
+
+
+        animator.SetBool("attacking", false);
+        yield return new WaitForSeconds(6f);
+        canAttack = true;
     }
 }

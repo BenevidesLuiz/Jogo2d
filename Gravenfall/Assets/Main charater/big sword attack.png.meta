@@ -1,142 +1,172 @@
 fileFormatVersion: 2
-guid: cc0516e7afadf9c43bc3ddb97f67613f
+guid: 3697e4e461b9f074294a5b3970bef224
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4764831654228780401
-    second: big sword attack_0
+      213: -4610073243223321283
+    second: big sword attack 1_0
   - first:
-      213: -5645680498829256019
-    second: big sword attack_1
+      213: -5889633348881022469
+    second: big sword attack 1_1
   - first:
-      213: -5883814398289948333
-    second: big sword attack_2
+      213: -6081933786547783844
+    second: big sword attack 1_2
   - first:
-      213: -5228959310164364484
-    second: big sword attack_3
+      213: 8920847981237218567
+    second: big sword attack 1_3
   - first:
-      213: -5832057695099894102
-    second: big sword attack_4
+      213: -1550349652925582043
+    second: big sword attack 1_4
   - first:
-      213: -6999629355119335025
-    second: big sword attack_5
+      213: 1562350696085062142
+    second: big sword attack 1_5
   - first:
-      213: -2934225868305251752
-    second: big sword attack_6
+      213: -1560791220177316406
+    second: big sword attack 1_6
   - first:
-      213: -2813687773675729401
-    second: big sword attack_7
+      213: -7822789857415422529
+    second: big sword attack 1_7
   - first:
-      213: -6005174513858016651
-    second: big sword attack_8
+      213: -889985955637376467
+    second: big sword attack 1_8
   - first:
-      213: -1524850249992988719
-    second: big sword attack_9
+      213: -7716773096179113433
+    second: big sword attack 1_9
   - first:
-      213: -2207557519674036675
-    second: big sword attack_10
+      213: 8341054848131118705
+    second: big sword attack 1_10
   - first:
-      213: -4944351836333158540
-    second: big sword attack_11
+      213: -5691936182292040800
+    second: big sword attack 1_11
   - first:
-      213: 6035863629739290435
-    second: big sword attack_12
+      213: 272901460222616673
+    second: big sword attack 1_12
   - first:
-      213: 8020336590336304759
-    second: big sword attack_13
+      213: 7402627295703849869
+    second: big sword attack 1_13
   - first:
-      213: 2301690875102724629
-    second: big sword attack_14
+      213: 2506507542313805421
+    second: big sword attack 1_14
   - first:
-      213: 207095392817039737
-    second: big sword attack_15
+      213: 7639891880667608281
+    second: big sword attack 1_15
   - first:
-      213: 8062178414002975521
-    second: big sword attack_16
+      213: 6396110864880436992
+    second: big sword attack 1_16
   - first:
-      213: -7914537841327355734
-    second: big sword attack_17
+      213: -2433788600665127403
+    second: big sword attack 1_17
   - first:
-      213: -7944545135915827758
-    second: big sword attack_18
+      213: -5943530395704609852
+    second: big sword attack 1_18
   - first:
-      213: -7813281993177497398
-    second: big sword attack_19
+      213: 9009007944590568894
+    second: big sword attack 1_19
   - first:
-      213: -3268890805927427352
-    second: big sword attack_20
+      213: 7859295716766114246
+    second: big sword attack 1_20
   - first:
-      213: 2607110611684828807
-    second: big sword attack_21
+      213: 4513652464124028924
+    second: big sword attack 1_21
   - first:
-      213: -3410866320618488107
-    second: big sword attack_22
+      213: 1475258583346596962
+    second: big sword attack 1_22
   - first:
-      213: 761044756866030778
-    second: big sword attack_23
+      213: -4713297383931957392
+    second: big sword attack 1_23
   - first:
-      213: -236810664200966496
-    second: big sword attack_24
+      213: -3946702960431482945
+    second: big sword attack 1_24
   - first:
-      213: 4902625662849494693
-    second: big sword attack_25
+      213: 4717600508441402393
+    second: big sword attack 1_25
   - first:
-      213: -975090630606919962
-    second: big sword attack_26
+      213: 5334059160462953156
+    second: big sword attack 1_26
   - first:
-      213: 1251276369479433226
-    second: big sword attack_27
+      213: 8013308432663401938
+    second: big sword attack 1_27
   - first:
-      213: -4592561336869610758
-    second: big sword attack_28
+      213: 1348174669893590292
+    second: big sword attack 1_28
   - first:
-      213: -4101151378531477906
-    second: big sword attack_29
+      213: -3096008987502339349
+    second: big sword attack 1_29
   - first:
-      213: 7102651455536593217
-    second: big sword attack_30
+      213: -8509370082480736554
+    second: big sword attack 1_30
   - first:
-      213: -3898258389452278380
-    second: big sword attack_31
+      213: -1206582579941979278
+    second: big sword attack 1_31
   - first:
-      213: -1231871589582993715
-    second: big sword attack_32
+      213: 7615784559741639172
+    second: big sword attack 1_32
   - first:
-      213: -4625785195737845503
-    second: big sword attack_33
+      213: 3432071355621878999
+    second: big sword attack 1_33
   - first:
-      213: -1917613777114429753
-    second: big sword attack_34
+      213: 2755557910843971489
+    second: big sword attack 1_34
   - first:
-      213: 8370554421876523975
-    second: big sword attack_35
+      213: 5121295654843126976
+    second: big sword attack 1_35
   - first:
-      213: 6219759727379455573
-    second: big sword attack_36
+      213: -3309759836081803230
+    second: big sword attack 1_36
   - first:
-      213: 4297096197406982699
-    second: big sword attack_37
+      213: -1358545860214740535
+    second: big sword attack 1_37
   - first:
-      213: 4552822234508060428
-    second: big sword attack_38
+      213: -121034424831241788
+    second: big sword attack 1_38
   - first:
-      213: 5754191253197036758
-    second: big sword attack_39
+      213: 3766951412716323544
+    second: big sword attack 1_39
   - first:
-      213: -4231095261858945759
-    second: big sword attack_40
+      213: -4304217607375428426
+    second: big sword attack 1_40
   - first:
-      213: -5483598700572283494
-    second: big sword attack_41
+      213: -5683252722396764145
+    second: big sword attack 1_41
   - first:
-      213: -1321843701735192193
-    second: big sword attack_42
+      213: 5669305386567877981
+    second: big sword attack 1_42
   - first:
-      213: -4198764738548562302
-    second: big sword attack_43
+      213: -3782079643741664908
+    second: big sword attack 1_43
   - first:
-      213: 8010341026579537984
-    second: big sword attack_44
+      213: -2112677111643458222
+    second: big sword attack 1_44
+  - first:
+      213: 8499514119801900133
+    second: big sword attack 1_45
+  - first:
+      213: -604819797141833561
+    second: big sword attack 1_46
+  - first:
+      213: 3909690287754897527
+    second: big sword attack 1_47
+  - first:
+      213: 4668791276947783764
+    second: big sword attack 1_48
+  - first:
+      213: -8674651307459657653
+    second: big sword attack 1_49
+  - first:
+      213: -975458880088756319
+    second: big sword attack 1_50
+  - first:
+      213: -2760306863510438080
+    second: big sword attack 1_51
+  - first:
+      213: 4328179541384458282
+    second: big sword attack 1_52
+  - first:
+      213: 2793281381615864813
+    second: big sword attack 1_53
+  - first:
+      213: -1294724575562719731
+    second: big sword attack 1_54
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -235,20 +265,20 @@ TextureImporter:
       name: big sword attack_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1916
-        width: 46
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13
+        y: 1866
+        width: 130
+        height: 98
+      alignment: 9
+      pivot: {x: 0.86737823, y: 0.50658435}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f8a182b0bdaefddb0800000000000000
-      internalID: -4764831654228780401
+      spriteID: 13ffbc03f81a41d47ab8f3d1672635fa
+      internalID: 1231434623
       vertices: []
       indices: 
       edges: []
@@ -257,20 +287,20 @@ TextureImporter:
       name: big sword attack_1
       rect:
         serializedVersion: 2
-        x: 363
-        y: 1914
-        width: 42
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 268
+        y: 1865
+        width: 132
+        height: 99
+      alignment: 9
+      pivot: {x: 0.8520332, y: 0.51303685}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: daa9ee79f7386a1b0800000000000000
-      internalID: -5645680498829256019
+      spriteID: cc54315c4054f9c499ffe517bedcb032
+      internalID: -133733882
       vertices: []
       indices: 
       edges: []
@@ -279,20 +309,20 @@ TextureImporter:
       name: big sword attack_2
       rect:
         serializedVersion: 2
-        x: 624
-        y: 1911
-        width: 40
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 523
+        y: 1863
+        width: 133
+        height: 101
+      alignment: 9
+      pivot: {x: 0.86879647, y: 0.49999878}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 35159918afd785ea0800000000000000
-      internalID: -5883814398289948333
+      spriteID: d4b3947a6d29c7341afe8d9eb9180f59
+      internalID: 695769329
       vertices: []
       indices: 
       edges: []
@@ -301,20 +331,20 @@ TextureImporter:
       name: big sword attack_3
       rect:
         serializedVersion: 2
-        x: 880
-        y: 1910
-        width: 43
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 779
+        y: 1863
+        width: 133
+        height: 101
+      alignment: 9
+      pivot: {x: 0.85423887, y: 0.5127787}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c337eac26310f67b0800000000000000
-      internalID: -5228959310164364484
+      spriteID: e9fca1f8728437a4e9fa229ad85ddb24
+      internalID: 1244455962
       vertices: []
       indices: 
       edges: []
@@ -323,20 +353,20 @@ TextureImporter:
       name: big sword attack_4
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 1909
-        width: 45
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1034
+        y: 1863
+        width: 135
+        height: 101
+      alignment: 9
+      pivot: {x: 0.84899086, y: 0.5127787}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aa6ccf50d6e501fa0800000000000000
-      internalID: -5832057695099894102
+      spriteID: 75bf7ef7e360ca14883e2de99cb61d9e
+      internalID: 1760825676
       vertices: []
       indices: 
       edges: []
@@ -345,20 +375,20 @@ TextureImporter:
       name: big sword attack_5
       rect:
         serializedVersion: 2
-        x: 1391
-        y: 1908
-        width: 49
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1290
+        y: 1864
+        width: 135
+        height: 100
+      alignment: 9
+      pivot: {x: 0.8442094, y: 0.49999878}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f8927b8ef225cde90800000000000000
-      internalID: -6999629355119335025
+      spriteID: 8aba58a4693d69f4e8e40fb663b8e5d8
+      internalID: -555530402
       vertices: []
       indices: 
       edges: []
@@ -367,20 +397,20 @@ TextureImporter:
       name: big sword attack_6
       rect:
         serializedVersion: 2
-        x: 1646
-        y: 1908
-        width: 52
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1546
+        y: 1865
+        width: 135
+        height: 99
+      alignment: 9
+      pivot: {x: 0.85855216, y: 0.49347973}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 85247e47e198747d0800000000000000
-      internalID: -2934225868305251752
+      spriteID: cae5e26d8413c314c8989da72ae7cd52
+      internalID: 2137850730
       vertices: []
       indices: 
       edges: []
@@ -389,20 +419,20 @@ TextureImporter:
       name: big sword attack_7
       rect:
         serializedVersion: 2
-        x: 1902
-        y: 1909
-        width: 54
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1802
+        y: 1867
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.84642386, y: 0.546573}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 70ec23d90e5c3f8d0800000000000000
-      internalID: -2813687773675729401
+      spriteID: 0219661bbf647c04f94dcdebeae16707
+      internalID: 1722264878
       vertices: []
       indices: 
       edges: []
@@ -411,20 +441,20 @@ TextureImporter:
       name: big sword attack_8
       rect:
         serializedVersion: 2
-        x: 109
-        y: 1654
-        width: 57
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10
+        y: 1613
+        width: 136
+        height: 95
+      alignment: 9
+      pivot: {x: 0.8464248, y: 0.4320621}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 57a834fa89559aca0800000000000000
-      internalID: -6005174513858016651
+      spriteID: eeecd300d7a6d5c4b992285bbcb9eb13
+      internalID: -529009361
       vertices: []
       indices: 
       edges: []
@@ -433,20 +463,20 @@ TextureImporter:
       name: big sword attack_9
       rect:
         serializedVersion: 2
-        x: 364
-        y: 1655
-        width: 59
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 266
+        y: 1615
+        width: 137
+        height: 93
+      alignment: 9
+      pivot: {x: 0.83447444, y: 0.40978217}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1d79081d6c4a6dae0800000000000000
-      internalID: -1524850249992988719
+      spriteID: fa6e11bacb7e9c04c922d340963fa03d
+      internalID: -22225686
       vertices: []
       indices: 
       edges: []
@@ -455,20 +485,20 @@ TextureImporter:
       name: big sword attack_10
       rect:
         serializedVersion: 2
-        x: 622
-        y: 1656
-        width: 58
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 518
+        y: 1613
+        width: 140
+        height: 95
+      alignment: 9
+      pivot: {x: 0.86418676, y: 0.41847503}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d3e269ac12e2d51e0800000000000000
-      internalID: -2207557519674036675
+      spriteID: dfa842773f8bb9f4ba4625628b3510f8
+      internalID: 544648525
       vertices: []
       indices: 
       edges: []
@@ -477,20 +507,20 @@ TextureImporter:
       name: big sword attack_11
       rect:
         serializedVersion: 2
-        x: 878
-        y: 1657
-        width: 58
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 772
+        y: 1611
+        width: 142
+        height: 97
+      alignment: 9
+      pivot: {x: 0.845422, y: 0.46007797}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 47fcfce7332226bb0800000000000000
-      internalID: -4944351836333158540
+      spriteID: f4f08b0bb6608e641aac5815e5dfd861
+      internalID: 549954443
       vertices: []
       indices: 
       edges: []
@@ -499,20 +529,20 @@ TextureImporter:
       name: big sword attack_12
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 1658
-        width: 56
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1027
+        y: 1609
+        width: 142
+        height: 99
+      alignment: 9
+      pivot: {x: 0.849967, y: 0.48044163}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 34f6f4bedf1b3c350800000000000000
-      internalID: 6035863629739290435
+      spriteID: d9fbe4a5dbb97ac4e81e85ede4e31aae
+      internalID: 1364585596
       vertices: []
       indices: 
       edges: []
@@ -521,20 +551,20 @@ TextureImporter:
       name: big sword attack_13
       rect:
         serializedVersion: 2
-        x: 1392
-        y: 1659
-        width: 52
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1284
+        y: 1608
+        width: 141
+        height: 100
+      alignment: 9
+      pivot: {x: 0.86618066, y: 0.49354494}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7762016a2a5fd4f60800000000000000
-      internalID: 8020336590336304759
+      spriteID: 68f0715959f0f4246a10e7335c68b202
+      internalID: -902365408
       vertices: []
       indices: 
       edges: []
@@ -543,20 +573,20 @@ TextureImporter:
       name: big sword attack_14
       rect:
         serializedVersion: 2
-        x: 1650
-        y: 1661
-        width: 45
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1543
+        y: 1607
+        width: 138
+        height: 102
+      alignment: 9
+      pivot: {x: 0.8647877, y: 0.48734418}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5128141f7af31ff10800000000000000
-      internalID: 2301690875102724629
+      spriteID: 902af829f39796248be16cd66b1acfdf
+      internalID: -1273695996
       vertices: []
       indices: 
       edges: []
@@ -565,20 +595,20 @@ TextureImporter:
       name: big sword attack_15
       rect:
         serializedVersion: 2
-        x: 1907
-        y: 1664
-        width: 38
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1803
+        y: 1607
+        width: 133
+        height: 114
+      alignment: 9
+      pivot: {x: 0.85423887, y: 0.44904742}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 979ca7b9920cfd200800000000000000
-      internalID: 207095392817039737
+      spriteID: 754c4d905c6c23c44b66eaf0c8b50cca
+      internalID: 409818358
       vertices: []
       indices: 
       edges: []
@@ -587,20 +617,20 @@ TextureImporter:
       name: big sword attack_16
       rect:
         serializedVersion: 2
-        x: 115
-        y: 1410
-        width: 37
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 17
+        y: 1351
+        width: 127
+        height: 125
+      alignment: 9
+      pivot: {x: 0.86589277, y: 0.39673632}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 12338726d8c92ef60800000000000000
-      internalID: 8062178414002975521
+      spriteID: ccabac9b9a9d39e41a4861319ef9b416
+      internalID: -1059223047
       vertices: []
       indices: 
       edges: []
@@ -609,20 +639,20 @@ TextureImporter:
       name: big sword attack_17
       rect:
         serializedVersion: 2
-        x: 371
-        y: 1414
-        width: 37
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 280
+        y: 1352
+        width: 120
+        height: 135
+      alignment: 9
+      pivot: {x: 0.8495885, y: 0.3661395}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aa8cb4e24c9e92290800000000000000
-      internalID: -7914537841327355734
+      spriteID: f66ef3a45d8fc924db1212bbb6af1373
+      internalID: -805882356
       vertices: []
       indices: 
       edges: []
@@ -631,20 +661,20 @@ TextureImporter:
       name: big sword attack_18
       rect:
         serializedVersion: 2
-        x: 628
-        y: 1418
-        width: 36
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 545
+        y: 1353
+        width: 111
+        height: 144
+      alignment: 9
+      pivot: {x: 0.84304726, y: 0.32968733}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2ddfda77a4e4fb190800000000000000
-      internalID: -7944545135915827758
+      spriteID: 9b6dffcc551487f4bb8f0834617f4936
+      internalID: -561682855
       vertices: []
       indices: 
       edges: []
@@ -653,20 +683,20 @@ TextureImporter:
       name: big sword attack_19
       rect:
         serializedVersion: 2
-        x: 884
-        y: 1422
-        width: 37
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 810
+        y: 1355
+        width: 101
+        height: 151
+      alignment: 9
+      pivot: {x: 0.83228207, y: 0.29484102}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ac003ba7c65a19390800000000000000
-      internalID: -7813281993177497398
+      spriteID: edc534cb68a5ddb488ee5beef3b77144
+      internalID: 1561954199
       vertices: []
       indices: 
       edges: []
@@ -675,20 +705,20 @@ TextureImporter:
       name: big sword attack_20
       rect:
         serializedVersion: 2
-        x: 1146
-        y: 1420
-        width: 41
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1076
+        y: 1355
+        width: 93
+        height: 157
+      alignment: 9
+      pivot: {x: 0.78452885, y: 0.2780163}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e2c72f912192a2d0800000000000000
-      internalID: -3268890805927427352
+      spriteID: a6b2b8f5e0a238d46a8c50f1e6143000
+      internalID: 2105100156
       vertices: []
       indices: 
       edges: []
@@ -697,20 +727,20 @@ TextureImporter:
       name: big sword attack_21
       rect:
         serializedVersion: 2
-        x: 1402
-        y: 1418
-        width: 50
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1341
+        y: 1355
+        width: 86
+        height: 163
+      alignment: 9
+      pivot: {x: 0.7551553, y: 0.28222805}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 78620abc9415e2420800000000000000
-      internalID: 2607110611684828807
+      spriteID: e3bb66ec23afacb40add05b847e3e1fe
+      internalID: 535791904
       vertices: []
       indices: 
       edges: []
@@ -719,20 +749,20 @@ TextureImporter:
       name: big sword attack_22
       rect:
         serializedVersion: 2
-        x: 1658
-        y: 1417
-        width: 61
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1608
+        y: 1355
+        width: 77
+        height: 168
+      alignment: 9
+      pivot: {x: 0.71792406, y: 0.26565987}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5def037272b2aa0d0800000000000000
-      internalID: -3410866320618488107
+      spriteID: 0dc53bde233594a4dbc4f1ada74e1501
+      internalID: 1236708641
       vertices: []
       indices: 
       edges: []
@@ -741,20 +771,20 @@ TextureImporter:
       name: big sword attack_23
       rect:
         serializedVersion: 2
-        x: 1914
-        y: 1415
-        width: 65
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1874
+        y: 1355
+        width: 69
+        height: 172
+      alignment: 9
+      pivot: {x: 0.6683615, y: 0.25610068}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: abc5c279c26cf8a00800000000000000
-      internalID: 761044756866030778
+      spriteID: ebfaf98efa94c6842b326da0f57f5254
+      internalID: -452562108
       vertices: []
       indices: 
       edges: []
@@ -763,20 +793,20 @@ TextureImporter:
       name: big sword attack_24
       rect:
         serializedVersion: 2
-        x: 122
-        y: 1158
-        width: 71
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 94
+        y: 1099
+        width: 59
+        height: 174
+      alignment: 9
+      pivot: {x: 0.580285, y: 0.27200493}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0aee641a4fda6bcf0800000000000000
-      internalID: -236810664200966496
+      spriteID: 1869ab2615bf28845b48162be3076e42
+      internalID: -1125827077
       vertices: []
       indices: 
       edges: []
@@ -785,20 +815,20 @@ TextureImporter:
       name: big sword attack_25
       rect:
         serializedVersion: 2
-        x: 378
-        y: 1157
-        width: 69
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 371
+        y: 1099
+        width: 51
+        height: 174
+      alignment: 9
+      pivot: {x: 0.30263084, y: 0.26179662}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5aeabdca010a90440800000000000000
-      internalID: 4902625662849494693
+      spriteID: 3a787fc3edf42bf458ea4e4f350dbd8d
+      internalID: -1997847789
       vertices: []
       indices: 
       edges: []
@@ -807,20 +837,20 @@ TextureImporter:
       name: big sword attack_26
       rect:
         serializedVersion: 2
-        x: 634
-        y: 1157
-        width: 67
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 626
+        y: 1100
+        width: 96
+        height: 151
+      alignment: 9
+      pivot: {x: 0.17310779, y: 0.29217488}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e6ecdadc38c772f0800000000000000
-      internalID: -975090630606919962
+      spriteID: d52061ab90ca4bb479b86d45ce558321
+      internalID: 1078102231
       vertices: []
       indices: 
       edges: []
@@ -829,20 +859,20 @@ TextureImporter:
       name: big sword attack_27
       rect:
         serializedVersion: 2
-        x: 890
-        y: 1156
-        width: 65
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 881
+        y: 1100
+        width: 144
+        height: 111
+      alignment: 9
+      pivot: {x: 0.12993367, y: 0.37731165}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a0c79ae7a3d6d5110800000000000000
-      internalID: 1251276369479433226
+      spriteID: d741c3d186e129e4ba68011d4ce59259
+      internalID: 566413338
       vertices: []
       indices: 
       edges: []
@@ -851,20 +881,20 @@ TextureImporter:
       name: big sword attack_28
       rect:
         serializedVersion: 2
-        x: 1146
-        y: 1155
-        width: 63
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1136
+        y: 1101
+        width: 144
+        height: 81
+      alignment: 9
+      pivot: {x: 0.12993367, y: 0.46344975}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: afa91baebc1f340c0800000000000000
-      internalID: -4592561336869610758
+      spriteID: ea359547ee6a8ec4586574ee2a9463e4
+      internalID: 2145949595
       vertices: []
       indices: 
       edges: []
@@ -873,20 +903,20 @@ TextureImporter:
       name: big sword attack_29
       rect:
         serializedVersion: 2
-        x: 1402
-        y: 1154
-        width: 60
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1391
+        y: 1095
+        width: 140
+        height: 81
+      alignment: 9
+      pivot: {x: 0.16165335, y: 0.5292396}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e661780dc88c517c0800000000000000
-      internalID: -4101151378531477906
+      spriteID: 9ef63b625b7dc8f4a8b02d75af03bb3f
+      internalID: -1233152232
       vertices: []
       indices: 
       edges: []
@@ -895,20 +925,20 @@ TextureImporter:
       name: big sword attack_30
       rect:
         serializedVersion: 2
-        x: 1658
-        y: 1153
-        width: 57
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1647
+        y: 1096
+        width: 140
+        height: 80
+      alignment: 9
+      pivot: {x: 0.14896502, y: 0.5222031}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1497baa0edfa19260800000000000000
-      internalID: 7102651455536593217
+      spriteID: 5a8b5991440b78a49be0c1c995217ef3
+      internalID: -1697694175
       vertices: []
       indices: 
       edges: []
@@ -917,20 +947,20 @@ TextureImporter:
       name: big sword attack_31
       rect:
         serializedVersion: 2
-        x: 1914
-        y: 1152
-        width: 54
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1903
+        y: 1097
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.1405073, y: 0.5299798}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 495b20e06aa96e9c0800000000000000
-      internalID: -3898258389452278380
+      spriteID: ddd71cae8ef4fe445a9014683148e080
+      internalID: -1850138933
       vertices: []
       indices: 
       edges: []
@@ -939,20 +969,20 @@ TextureImporter:
       name: big sword attack_32
       rect:
         serializedVersion: 2
-        x: 122
-        y: 895
-        width: 51
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 111
+        y: 842
+        width: 140
+        height: 78
+      alignment: 9
+      pivot: {x: 0.15319541, y: 0.5075903}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc68206e05387eee0800000000000000
-      internalID: -1231871589582993715
+      spriteID: 3ab3a021648e96a419e90be5004bb445
+      internalID: -317936916
       vertices: []
       indices: 
       edges: []
@@ -961,20 +991,20 @@ TextureImporter:
       name: big sword attack_33
       rect:
         serializedVersion: 2
-        x: 378
-        y: 894
-        width: 48
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 367
+        y: 843
+        width: 141
+        height: 77
+      alignment: 9
+      pivot: {x: 0.13885757, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 101f8c87fd8edcfb0800000000000000
-      internalID: -4625785195737845503
+      spriteID: 8158ae333e721bf47bf720c26ddf9ba6
+      internalID: -286692130
       vertices: []
       indices: 
       edges: []
@@ -983,20 +1013,20 @@ TextureImporter:
       name: big sword attack_34
       rect:
         serializedVersion: 2
-        x: 634
-        y: 894
-        width: 47
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 622
+        y: 844
+        width: 141
+        height: 76
+      alignment: 9
+      pivot: {x: 0.14305688, y: 0.4999992}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7c603befd644365e0800000000000000
-      internalID: -1917613777114429753
+      spriteID: a1bd8b87bf4de1c40aaf1707de78e620
+      internalID: 454489180
       vertices: []
       indices: 
       edges: []
@@ -1005,20 +1035,20 @@ TextureImporter:
       name: big sword attack_35
       rect:
         serializedVersion: 2
-        x: 890
-        y: 893
-        width: 46
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 881
+        y: 843
+        width: 141
+        height: 83
+      alignment: 9
+      pivot: {x: 0.13885757, y: 0.478598}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7c38609c5ee2a2470800000000000000
-      internalID: 8370554421876523975
+      spriteID: 8fb9991cfa10e774a9caddb854b273da
+      internalID: -1204247464
       vertices: []
       indices: 
       edges: []
@@ -1027,20 +1057,20 @@ TextureImporter:
       name: big sword attack_36
       rect:
         serializedVersion: 2
-        x: 1146
-        y: 892
-        width: 45
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1140
+        y: 843
+        width: 111
+        height: 132
+      alignment: 9
+      pivot: {x: 0.17460783, y: 0.32505938}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55e9bb2b486015650800000000000000
-      internalID: 6219759727379455573
+      spriteID: 9d478cd8af6755a459e7cd3a06cdc036
+      internalID: -1669291442
       vertices: []
       indices: 
       edges: []
@@ -1050,19 +1080,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1399
-        y: 891
-        width: 47
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 842
+        width: 62
+        height: 166
+      alignment: 9
+      pivot: {x: 0.25169322, y: 0.2824185}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b22002c793a52ab30800000000000000
-      internalID: 4297096197406982699
+      spriteID: 41fc474f3b3f9d54186b148310d369c9
+      internalID: -2072341053
       vertices: []
       indices: 
       edges: []
@@ -1071,20 +1101,20 @@ TextureImporter:
       name: big sword attack_38
       rect:
         serializedVersion: 2
-        x: 1651
-        y: 890
-        width: 50
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1639
+        y: 842
+        width: 61
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5194112, y: 0.27796027}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c076a5d43bfde2f30800000000000000
-      internalID: 4552822234508060428
+      spriteID: e237d66700ae18d449ebdb53cbafe060
+      internalID: 639852286
       vertices: []
       indices: 
       edges: []
@@ -1093,20 +1123,20 @@ TextureImporter:
       name: big sword attack_39
       rect:
         serializedVersion: 2
-        x: 1904
-        y: 889
-        width: 52
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1846
+        y: 842
+        width: 103
+        height: 142
+      alignment: 9
+      pivot: {x: 0.7874282, y: 0.3332094}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6dc1870357efadf40800000000000000
-      internalID: 5754191253197036758
+      spriteID: a6410bb53c0066144969cb4133697887
+      internalID: 2060817750
       vertices: []
       indices: 
       edges: []
@@ -1115,20 +1145,20 @@ TextureImporter:
       name: big sword attack_40
       rect:
         serializedVersion: 2
-        x: 112
-        y: 634
-        width: 49
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 585
+        width: 109
+        height: 138
+      alignment: 9
+      pivot: {x: 0.79984415, y: 0.35197958}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1252f02d6412845c0800000000000000
-      internalID: -4231095261858945759
+      spriteID: c1bedc1e350f2894aa19b11e36f77e01
+      internalID: -983289946
       vertices: []
       indices: 
       edges: []
@@ -1137,20 +1167,20 @@ TextureImporter:
       name: big sword attack_41
       rect:
         serializedVersion: 2
-        x: 367
-        y: 634
-        width: 46
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 299
+        y: 585
+        width: 113
+        height: 135
+      alignment: 9
+      pivot: {x: 0.8073069, y: 0.37138626}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a9d6891090856e3b0800000000000000
-      internalID: -5483598700572283494
+      spriteID: 41e9d08e5dc44e34f802cf8d9acddcc8
+      internalID: -1120494653
       vertices: []
       indices: 
       edges: []
@@ -1159,20 +1189,20 @@ TextureImporter:
       name: big sword attack_42
       rect:
         serializedVersion: 2
-        x: 623
-        y: 635
-        width: 42
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 550
+        y: 585
+        width: 124
+        height: 130
+      alignment: 9
+      pivot: {x: 0.7759271, y: 0.35858342}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f798c7d182ed7ade0800000000000000
-      internalID: -1321843701735192193
+      spriteID: d5302fb1d2811124dae9a862bcca6da4
+      internalID: -169517346
       vertices: []
       indices: 
       edges: []
@@ -1181,20 +1211,20 @@ TextureImporter:
       name: big sword attack_43
       rect:
         serializedVersion: 2
-        x: 879
-        y: 636
-        width: 39
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 801
+        y: 586
+        width: 133
+        height: 125
+      alignment: 9
+      pivot: {x: 0.75994045, y: 0.37428126}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 286806f57bdfab5c0800000000000000
-      internalID: -4198764738548562302
+      spriteID: e45b6dfc33ae84d4c827a29172c9247e
+      internalID: -464492018
       vertices: []
       indices: 
       edges: []
@@ -1203,20 +1233,240 @@ TextureImporter:
       name: big sword attack_44
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 636
-        width: 46
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1052
+        y: 586
+        width: 141
+        height: 120
+      alignment: 9
+      pivot: {x: 0.7507644, y: 0.38868663}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 040e20b19b27a2f60800000000000000
-      internalID: 8010341026579537984
+      spriteID: ead3c3faba7d329409daadc91bd1a22c
+      internalID: 1107309956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_45
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 586
+        width: 146
+        height: 114
+      alignment: 9
+      pivot: {x: 0.7421775, y: 0.40350556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4325508015d411449765655e85bf703
+      internalID: 1294565747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_46
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 586
+        width: 149
+        height: 108
+      alignment: 9
+      pivot: {x: 0.7531206, y: 0.43452114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8dd07be60317c44b93bda74b3a6129
+      internalID: -1968648405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_47
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 586
+        width: 148
+        height: 102
+      alignment: 9
+      pivot: {x: 0.7813762, y: 0.44607663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28af3c6ae86f4f4bb30bde0077a44f9
+      internalID: 500556935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 330
+        width: 147
+        height: 98
+      alignment: 9
+      pivot: {x: 0.79876053, y: 0.48957855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff85a9dc1bdfb534e8ad78b2cc2b89b7
+      internalID: -440723320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 330
+        width: 144
+        height: 98
+      alignment: 9
+      pivot: {x: 0.8404477, y: 0.48957855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acd535c1be79964594aed222ed84542
+      internalID: 1872829804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 330
+        width: 145
+        height: 98
+      alignment: 9
+      pivot: {x: 0.84162176, y: 0.48957855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94abd932448e085429f908eb8cd81dbe
+      internalID: -465325653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_51
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 330
+        width: 144
+        height: 98
+      alignment: 9
+      pivot: {x: 0.8510869, y: 0.4791565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6650d8e8562769c4eab93d8a37834ba9
+      internalID: -967249250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_52
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 330
+        width: 141
+        height: 98
+      alignment: 9
+      pivot: {x: 0.85855687, y: 0.48957855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a429964d3eedf414cb040da7bf130926
+      internalID: 452212774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_53
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 330
+        width: 136
+        height: 98
+      alignment: 9
+      pivot: {x: 0.86047363, y: 0.47394577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1f786a47faa1843b11641f35c496fa
+      internalID: -1499248365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big sword attack_54
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 330
+        width: 130
+        height: 98
+      alignment: 9
+      pivot: {x: 0.8613986, y: 0.4791565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe52f7476594b184c98b7c736b9a8fee
+      internalID: 1286157247
       vertices: []
       indices: 
       edges: []
@@ -1225,7 +1475,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 54fdfe5cd94544b42b53c278cbc15ab1
     internalID: 0
     vertices: []
     indices: 
@@ -1233,53 +1483,65 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      big sword attack_0: -4764831654228780401
-      big sword attack_1: -5645680498829256019
-      big sword attack_10: -2207557519674036675
-      big sword attack_11: -4944351836333158540
-      big sword attack_12: 6035863629739290435
-      big sword attack_13: 8020336590336304759
-      big sword attack_14: 2301690875102724629
-      big sword attack_15: 207095392817039737
-      big sword attack_16: 8062178414002975521
-      big sword attack_17: -7914537841327355734
-      big sword attack_18: -7944545135915827758
-      big sword attack_19: -7813281993177497398
-      big sword attack_2: -5883814398289948333
-      big sword attack_20: -3268890805927427352
-      big sword attack_21: 2607110611684828807
-      big sword attack_22: -3410866320618488107
-      big sword attack_23: 761044756866030778
-      big sword attack_24: -236810664200966496
-      big sword attack_25: 4902625662849494693
-      big sword attack_26: -975090630606919962
-      big sword attack_27: 1251276369479433226
-      big sword attack_28: -4592561336869610758
-      big sword attack_29: -4101151378531477906
-      big sword attack_3: -5228959310164364484
-      big sword attack_30: 7102651455536593217
-      big sword attack_31: -3898258389452278380
-      big sword attack_32: -1231871589582993715
-      big sword attack_33: -4625785195737845503
-      big sword attack_34: -1917613777114429753
-      big sword attack_35: 8370554421876523975
-      big sword attack_36: 6219759727379455573
-      big sword attack_37: 4297096197406982699
-      big sword attack_38: 4552822234508060428
-      big sword attack_39: 5754191253197036758
-      big sword attack_4: -5832057695099894102
-      big sword attack_40: -4231095261858945759
-      big sword attack_41: -5483598700572283494
-      big sword attack_42: -1321843701735192193
-      big sword attack_43: -4198764738548562302
-      big sword attack_44: 8010341026579537984
-      big sword attack_5: -6999629355119335025
-      big sword attack_6: -2934225868305251752
-      big sword attack_7: -2813687773675729401
-      big sword attack_8: -6005174513858016651
-      big sword attack_9: -1524850249992988719
+      big sword attack_0: 1231434623
+      big sword attack_1: -133733882
+      big sword attack_10: 544648525
+      big sword attack_11: 549954443
+      big sword attack_12: 1364585596
+      big sword attack_13: -902365408
+      big sword attack_14: -1273695996
+      big sword attack_15: 409818358
+      big sword attack_16: -1059223047
+      big sword attack_17: -805882356
+      big sword attack_18: -561682855
+      big sword attack_19: 1561954199
+      big sword attack_2: 695769329
+      big sword attack_20: 2105100156
+      big sword attack_21: 535791904
+      big sword attack_22: 1236708641
+      big sword attack_23: -452562108
+      big sword attack_24: -1125827077
+      big sword attack_25: -1997847789
+      big sword attack_26: 1078102231
+      big sword attack_27: 566413338
+      big sword attack_28: 2145949595
+      big sword attack_29: -1233152232
+      big sword attack_3: 1244455962
+      big sword attack_30: -1697694175
+      big sword attack_31: -1850138933
+      big sword attack_32: -317936916
+      big sword attack_33: -286692130
+      big sword attack_34: 454489180
+      big sword attack_35: -1204247464
+      big sword attack_36: -1669291442
+      big sword attack_37: -2072341053
+      big sword attack_38: 639852286
+      big sword attack_39: 2060817750
+      big sword attack_4: 1760825676
+      big sword attack_40: -983289946
+      big sword attack_41: -1120494653
+      big sword attack_42: -169517346
+      big sword attack_43: -464492018
+      big sword attack_44: 1107309956
+      big sword attack_45: 1294565747
+      big sword attack_46: -1968648405
+      big sword attack_47: 500556935
+      big sword attack_48: -440723320
+      big sword attack_49: 1872829804
+      big sword attack_5: -555530402
+      big sword attack_50: -465325653
+      big sword attack_51: -967249250
+      big sword attack_52: 452212774
+      big sword attack_53: -1499248365
+      big sword attack_54: 1286157247
+      big sword attack_6: 2137850730
+      big sword attack_7: 1722264878
+      big sword attack_8: -529009361
+      big sword attack_9: -22225686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
