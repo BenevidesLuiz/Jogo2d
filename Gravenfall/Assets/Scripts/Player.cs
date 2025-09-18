@@ -31,10 +31,9 @@ public class Player : MonoBehaviour
 
     private bool attackInput;
     private bool canAttack = true;
-
-
-
-
+    public int jumpHeight = 10;
+    public int jumpMoviment = 10;
+    public int jumpDown = 4;
 
     void Awake()
     {
@@ -65,6 +64,7 @@ public class Player : MonoBehaviour
         boxCollider = GetComponent<BoxCollider2D>();
         sprite = GetComponent<SpriteRenderer>();
         collisorSize = boxCollider.size;
+        
     }
 
     void FixedUpdate()
@@ -94,7 +94,7 @@ public class Player : MonoBehaviour
                 StartCoroutine(PerformDash());
 
             }
-            if (attackInput) {
+            if (canAttack) {
                 StartCoroutine(AttackRoutine());
             }
         }
@@ -106,7 +106,7 @@ public class Player : MonoBehaviour
         yield return new WaitForSeconds(0.05f);
         if (Mathf.Abs(moveInput.x) == 0)
         {
-            //animator.SetBool("running", false);
+            animator.SetBool("running", false);
         }
 
         stopRunningCoroutine = null;
@@ -138,13 +138,18 @@ public class Player : MonoBehaviour
         animator.SetBool("attacking", true);
 
 
-        yield return new WaitForSeconds(0.5f); 
+        yield return new WaitForSeconds(0.8f);
+        rb.linearVelocity = new Vector2(jumpMoviment, jumpHeight);
+        yield return new WaitForSeconds(0.3f);
+        animator.SetBool("canChange", true);
+        yield return new WaitForSeconds(0.9f);
+        rb.linearVelocity = new Vector2(jumpMoviment, -jumpDown);
+        yield return new WaitForSeconds(1f);
+        animator.SetBool("canChange", true);
 
 
 
 
-
-    
 
 
 
@@ -153,4 +158,13 @@ public class Player : MonoBehaviour
         yield return new WaitForSeconds(6f);
         canAttack = true;
     }
+    public void OnAnimationEnd()
+    {
+        animator.SetBool("canChange", false);
+
+        Debug.Log("aaaaaaaaaa");
+
+    }
+
+
 }
