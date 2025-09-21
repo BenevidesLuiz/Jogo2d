@@ -1,4 +1,5 @@
 ﻿
+using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UIElements;
@@ -6,13 +7,14 @@ using UnityEngine.UIElements;
 
 public class Player : MonoBehaviour
 {
+    private SlashVFX slashVFX;
 
     private Rigidbody2D rb;
     private PlayerMove controls;
     private Animator animator;
     private BoxCollider2D boxCollider;
     private SpriteRenderer sprite;
-
+    public GameObject slash;
     private Vector2 collisorSize;
 
     public float speed = 5f;
@@ -29,12 +31,19 @@ public class Player : MonoBehaviour
     private float lastDashTime = 0;
     private bool isDashing = false;
 
-    private bool attackInput;
-    private bool canAttack = true;
-    public int jumpHeight = 10;
-    public int jumpMoviment = 10;
-    public int jumpDown = 4;
 
+    public float dashAttackDuration = 0.5f;
+    public float dashAttackCooldown = 2f;
+    public float dashAttackForce = 20f;
+
+    private float lastDashAttackTime = 0;
+    private float dashAttackTimer = 0f;
+    private bool attackInput;
+    private bool isAttacking = true;
+    
+
+   
+    
     void Awake()
     {
         controls = new PlayerMove();
@@ -63,23 +72,48 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         boxCollider = GetComponent<BoxCollider2D>();
         sprite = GetComponent<SpriteRenderer>();
-        collisorSize = boxCollider.size;
-        
+        Transform filho = transform.Find("Slash");
+        if(filho != null)
+        {
+            slashVFX = filho.GetComponent<SlashVFX>();
+        }
+        else
+        {
+            Debug.LogError("Objeto filho não encontrado!");
+        }
+
+
     }
 
     void FixedUpdate()
     {
-       
+     
             
         if (!isDashing) {
             rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
             if (moveInput.x > 0) {
                 transform.localScale = new Vector3(2, 2, 2);
-            } else if (moveInput.x < 0) {
-                transform.localScale = new Vector3(-2, 2, 2);
             }
+            else if (moveInput.x < 0) {
+                transform.localScale = new Vector3(-2, 2, 2);
+
+            }
+
             bool isRunning = Mathf.Abs(moveInput.x) > 0;
             if (isRunning) {
+                if (attackInput && Time.time >= lastDashAttackTime + dashAttackCooldown)
+                {
+                    animator.SetBool("dashing", true);
+                    animator.SetBool("attacking", true);
+                    StartCoroutine(PerformDashAttack());
+                }
+
+                if (dashInput && Time.time >= lastDashTime + dashCooldown)
+                {
+                    animator.SetBool("dashing", true);
+                    StartCoroutine(PerformDash());
+
+                }
                 if (stopRunningCoroutine != null) {
                     StopCoroutine(stopRunningCoroutine);
                     stopRunningCoroutine = null;
@@ -88,15 +122,8 @@ public class Player : MonoBehaviour
             } else {
                 stopRunningCoroutine ??= StartCoroutine(StopRunningAfterDelay());
             }
-
-            if (dashInput && Time.time >= lastDashTime + dashCooldown) {
-                animator.SetBool("dashing", true);
-                StartCoroutine(PerformDash());
-
-            }
-            if (canAttack) {
-                StartCoroutine(AttackRoutine());
-            }
+            
+        
         }
 
 
@@ -132,37 +159,43 @@ public class Player : MonoBehaviour
         isDashing = false;
         animator.SetBool("dashing", false);
     }
-    private IEnumerator AttackRoutine()
+    IEnumerator PerformDashAttack()
     {
-        canAttack = false;
-        animator.SetBool("attacking", true);
+        isDashing = true;
+        isAttacking = true;
+        dashAttackTimer = dashAttackDuration;
+        lastDashAttackTime = Time.time;
+        yield return new WaitForSeconds(0.25f);
 
+        slashVFX.StartVFX();
+        float dashDirection = Mathf.Sign(moveInput.x);
+        if (dashDirection == 0) dashDirection = transform.localScale.x;
+        while (dashAttackTimer > 0)
+        {
+            rb.linearVelocity = new Vector2(dashDirection * dashAttackForce, rb.linearVelocity.y);
 
-        yield return new WaitForSeconds(0.8f);
-        rb.linearVelocity = new Vector2(jumpMoviment, jumpHeight);
-        yield return new WaitForSeconds(0.3f);
-        animator.SetBool("canChange", true);
-        yield return new WaitForSeconds(0.9f);
-        rb.linearVelocity = new Vector2(jumpMoviment, -jumpDown);
-        yield return new WaitForSeconds(1f);
-        animator.SetBool("canChange", true);
+            if (dashDirection > 0) {
+                slash.transform.localRotation = Quaternion.Euler(0, 180, 0);
 
+            } else if (dashDirection < 0) {
+                slash.transform.localRotation = Quaternion.Euler(0, 0, 0);
 
+            }
 
+            dashAttackTimer -= Time.deltaTime;
+            yield return null;
+        }
 
+        yield return new WaitForSeconds(0.15f);
+        isAttacking = false;
+        
 
-
-
+        isDashing = false;
+        
+       
 
         animator.SetBool("attacking", false);
-        yield return new WaitForSeconds(6f);
-        canAttack = true;
-    }
-    public void OnAnimationEnd()
-    {
-        animator.SetBool("canChange", false);
-
-        Debug.Log("aaaaaaaaaa");
+        animator.SetBool("dashing", false);
 
     }
 
