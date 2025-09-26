@@ -7,6 +7,10 @@ public class Inimigo : MonoBehaviour
     private Animator animator;
     private Transform player;
 
+    private ControlerMusica controlerMusica;
+
+    public int vida = 100;
+
     void Start()
     {
         aiPath = GetComponent<AIPath>();
@@ -35,4 +39,32 @@ public class Inimigo : MonoBehaviour
             transform.localScale = new Vector3(-2, 2, 2);
         }
     }
+
+    //Uma base apenas altera para sua necessidade @kaio.
+
+    public void TomarDano(int dano){
+        vida -= dano;
+        //aqui pode dar inicio a BossFigth 2
+        if (vida <= 0){
+            Morrer();
+        }
+    }
+
+    public void Morrer(){
+        // animação de morte (se tiver no animator)
+        animator.SetTrigger("die");
+
+        // chama a música da fase 2
+        if (controlerMusica != null){
+            controlerMusica.TocarMusicaFase2();
+        }
+
+        // destrói o inimigo após 1 segundo (tempo para animação)
+        Destroy(gameObject, 1f);
+
+    }
+
+
+
+
 }
