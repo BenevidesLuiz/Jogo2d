@@ -167,7 +167,7 @@ public class Player : MonoBehaviour
         lastDashAttackTime = Time.time;
         yield return new WaitForSeconds(0.25f);
 
-        slashVFX.StartVFX();
+        //slashVFX.StartVFX();
         float dashDirection = Mathf.Sign(moveInput.x);
         if (dashDirection == 0) dashDirection = transform.localScale.x;
         while (dashAttackTimer > 0)
