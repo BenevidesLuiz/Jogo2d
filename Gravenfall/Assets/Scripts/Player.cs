@@ -1,12 +1,12 @@
 ﻿
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
 
-public class Player : MonoBehaviour
-{
+public class Player : MonoBehaviour{
     private SlashVFX slashVFX;
 
     private Rigidbody2D rb;
@@ -40,10 +40,26 @@ public class Player : MonoBehaviour
     private float dashAttackTimer = 0f;
     private bool attackInput;
     private bool isAttacking = true;
-    
 
-   
-    
+    [SerializeField] private Animator _animator;
+    private List<Health> _objectsWithHealth = new();
+
+    //add isso aqui... @Luiz
+    private void OnFire(){
+        _animator.SetTrigger("Attack");
+        for(var i = _objectsWithHealth.Count - 1; i >= 0; i --){
+            _objectsWithHealth[i].Damage(3);
+        }
+    }
+    // aqui tmb
+    private void OnCollisionEnter2D(Collision2D col){
+        if(col.gameObject.TryGetComponent<Health>(out var health)){
+            health.Damage(amount: 1); //aqui é o valor que o Player da de Dano.
+        }        
+    }
+
+
+
     void Awake()
     {
         controls = new PlayerMove();
@@ -159,13 +175,15 @@ public class Player : MonoBehaviour
         isDashing = false;
         animator.SetBool("dashing", false);
     }
-    IEnumerator PerformDashAttack()
-    {
+    IEnumerator PerformDashAttack(){
         isDashing = true;
         isAttacking = true;
         dashAttackTimer = dashAttackDuration;
         lastDashAttackTime = Time.time;
         yield return new WaitForSeconds(0.25f);
+
+
+
 
         slashVFX.StartVFX();
         float dashDirection = Mathf.Sign(moveInput.x);
