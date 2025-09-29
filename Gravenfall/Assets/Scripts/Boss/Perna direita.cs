@@ -7,7 +7,7 @@ public class PernaDireita : MonoBehaviour
 {
     public GameObject player;
     public GameObject pEObj;
-
+    private BossHP hp;
     private Collider2D pE, pD, playerCollider;
     private int pEStagger = 2;
     private Rigidbody2D pERig;
@@ -20,7 +20,7 @@ public class PernaDireita : MonoBehaviour
         pD = GetComponent<Collider2D>();
         pE = pEObj.GetComponent<Collider2D>();
         playerCollider = player.GetComponent<Collider2D>();
-        
+        hp = new BossHP(15);
         pERig = pEObj.GetComponent<Rigidbody2D>();
         Physics2D.IgnoreCollision(pE, pD);
         Physics2D.IgnoreCollision(pD, playerCollider);
@@ -30,7 +30,10 @@ public class PernaDireita : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (hp.IsDead())
+        {
+            
+        }
         if (canAttack && player.transform.position.x < pEObj.transform.position.x - 5) {
             canAttack = false;
             StartCoroutine(BossAttack());
