@@ -1,6 +1,7 @@
+using System.Collections;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.Events;
-using System.Collections;
 
 public class Health : MonoBehaviour {
 
@@ -11,7 +12,8 @@ public class Health : MonoBehaviour {
     private int _maxhp = 100;
     [SerializeField]
     private int _hp;
-
+    [SerializeField]
+    private GameObject deathScreen;
     public int MaxHp => _maxhp;
 
     public int Hp {
@@ -29,6 +31,7 @@ public class Health : MonoBehaviour {
 
             if (_hp <= 0) {
                 Died?.Invoke();
+               
             }
 
         }
@@ -41,6 +44,8 @@ public class Health : MonoBehaviour {
 
     private void Awake() {
         _hp = _maxhp;
+        
+
     }
 
     public void Damage(int amount)
@@ -49,6 +54,11 @@ public class Health : MonoBehaviour {
         {
             Hp -= amount;
             StartCoroutine(DamageCooldownRoutine());
+        }
+        if (Hp <= 0){
+            deathScreen.SetActive(true);
+            gameObject.SetActive(false);
+
         }
     }
     private IEnumerator DamageCooldownRoutine()
@@ -63,7 +73,6 @@ public class Health : MonoBehaviour {
     public void HealFull() => Hp = _hp;
     public void kill(){
         Hp = 0;
-        LevelManager.instance.GameOver();
         gameObject.SetActive(false);
     }
 
