@@ -44,14 +44,10 @@ public class Health : MonoBehaviour {
 
     private void Awake() {
         _hp = _maxhp;
-        
-
     }
 
-    public void Damage(int amount)
-    {
-        if (canTakeDamage)
-        {
+    public void Damage(int amount){
+        if (canTakeDamage){
             Hp -= amount;
             StartCoroutine(DamageCooldownRoutine());
         }
@@ -61,8 +57,7 @@ public class Health : MonoBehaviour {
 
         }
     }
-    private IEnumerator DamageCooldownRoutine()
-    {
+    private IEnumerator DamageCooldownRoutine(){
         canTakeDamage = false;
         yield return new WaitForSeconds(damageCooldown);
         canTakeDamage = true;
@@ -76,9 +71,15 @@ public class Health : MonoBehaviour {
         gameObject.SetActive(false);
     }
 
+    public bool IsLive(){
+        if (Hp > 0){
+            return true;
+        }
+        return false;
+    }
+
     public void Adjust(int value){
         Hp = value;
     }
-    
 
 }

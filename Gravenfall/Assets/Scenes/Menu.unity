@@ -2369,7 +2369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6068d85aad888db4fae48af10eef8556, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomeDoLevelJogo: Scene 1
+  nomeDoLevelJogo: Fase teste
   painelMenuInicial: {fileID: 368581023}
   painelopcaoes: {fileID: 1495751387}
 --- !u!4 &1252774511
