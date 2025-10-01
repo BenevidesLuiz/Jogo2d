@@ -16,7 +16,7 @@ public class BossHP
     {
         return hp <= 0;
     }
-    public int getHp() {
+    public int GetHp() {
         return hp;
     }
 }

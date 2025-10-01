@@ -5198,11 +5198,11 @@ GameObject:
   - component: {fileID: 794068366}
   m_Layer: 0
   m_Name: AttackCollisor
-  m_TagString: Untagged
+  m_TagString: Attack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &794068364
 Transform:
   m_ObjectHideFlags: 0
@@ -5212,8 +5212,8 @@ Transform:
   m_GameObject: {fileID: 794068363}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.65, y: 0.14, z: 0}
-  m_LocalScale: {x: 0.81328297, y: 0.27036363, z: 0.58457}
+  m_LocalPosition: {x: 0.6291, y: 0.14, z: 0}
+  m_LocalScale: {x: 0.7714672, y: 0.27036363, z: 0.58457}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1533280354}
@@ -5332,9 +5332,10 @@ GameObject:
   - component: {fileID: 1422808477}
   - component: {fileID: 1422808476}
   - component: {fileID: 1422808480}
+  - component: {fileID: 1422808481}
   m_Layer: 7
   m_Name: Perna direita
-  m_TagString: Untagged
+  m_TagString: BossTag
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5365,7 +5366,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 5
 --- !u!61 &1422808477
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5496,6 +5497,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1533280348}
   pEObj: {fileID: 2002064911}
+--- !u!114 &1422808481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1422808475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24a3b7d221c36d4ab1d933748379502, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageCooldown: 1
+  _maxhp: 100
+  _hp: 0
+  Healed:
+    m_PersistentCalls:
+      m_Calls: []
+  Damaged:
+    m_PersistentCalls:
+      m_Calls: []
+  Died:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1533280348
 GameObject:
   m_ObjectHideFlags: 0
@@ -5510,9 +5535,10 @@ GameObject:
   - component: {fileID: 1533280351}
   - component: {fileID: 1533280350}
   - component: {fileID: 1533280349}
+  - component: {fileID: 1533280355}
   m_Layer: 0
   m_Name: player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5530,6 +5556,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slash: {fileID: 264324660}
+  collisorAreaGameObject: {fileID: 794068363}
   speed: 5
   dashDuration: 0.1
   dashCooldown: 2
@@ -5537,6 +5564,7 @@ MonoBehaviour:
   dashAttackDuration: 0.2
   dashAttackCooldown: 2
   dashAttackForce: 19.1
+  _animator: {fileID: 0}
 --- !u!61 &1533280350
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5703,6 +5731,30 @@ Transform:
   - {fileID: 794068364}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1533280355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533280348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24a3b7d221c36d4ab1d933748379502, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageCooldown: 1
+  _maxhp: 5
+  _hp: 0
+  Healed:
+    m_PersistentCalls:
+      m_Calls: []
+  Damaged:
+    m_PersistentCalls:
+      m_Calls: []
+  Died:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1558885797
 GameObject:
   m_ObjectHideFlags: 0
