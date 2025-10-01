@@ -5202,7 +5202,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &794068364
 Transform:
   m_ObjectHideFlags: 0
@@ -5377,7 +5377,7 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: a99c1a1165a2c7040bb8a19559ad443c, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -5512,6 +5512,7 @@ MonoBehaviour:
   damageCooldown: 1
   _maxhp: 100
   _hp: 0
+  deathScreen: {fileID: 0}
   Healed:
     m_PersistentCalls:
       m_Calls: []
@@ -5595,7 +5596,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -5746,6 +5747,7 @@ MonoBehaviour:
   damageCooldown: 1
   _maxhp: 5
   _hp: 0
+  deathScreen: {fileID: 0}
   Healed:
     m_PersistentCalls:
       m_Calls: []

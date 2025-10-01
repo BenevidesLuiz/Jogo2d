@@ -15,7 +15,7 @@ public class Player : MonoBehaviour{
     private Animator animator;
     public GameObject slash;
     public GameObject collisorAreaGameObject;
-
+    
     private BoxCollider2D attackCollisor;
 
 
@@ -61,15 +61,20 @@ public class Player : MonoBehaviour{
         {
             
         }
-        if (col.gameObject.TryGetComponent<Health>(out var health)){
+            
+    }
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        Debug.Log("Entrou no trigger com: " + col.gameObject.name);
+        if (col.gameObject.TryGetComponent<Health>(out var health))
+        {
             if (col.gameObject.CompareTag("BossTag"))
             {
                 health.Damage(amount: 1);
             }
             //health.Damage(amount: 1); //aqui é o valor que o Player da de Dano.
-        }        
+        }
     }
-
 
 
     void Awake()
@@ -148,6 +153,8 @@ public class Player : MonoBehaviour{
 
 
     }
+   
+
     IEnumerator StopRunningAfterDelay()
     {
         yield return new WaitForSeconds(0.05f);

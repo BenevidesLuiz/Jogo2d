@@ -74,7 +74,6 @@ public class PernaDireita : MonoBehaviour
         {
             if (col.gameObject.CompareTag("Player"))
             {
-                Debug.Log("aaaaaaaaaaaaaaaaaaaaa");
                 health.Damage(amount: 1);
             }
             //health.Damage(amount: 1); //aqui é o valor que o Player da de Dano.

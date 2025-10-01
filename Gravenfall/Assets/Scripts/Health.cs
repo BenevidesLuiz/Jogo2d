@@ -56,7 +56,9 @@ public class Health : MonoBehaviour {
             StartCoroutine(DamageCooldownRoutine());
         }
         if (Hp <= 0){
-            deathScreen.SetActive(true);
+            if (deathScreen) {
+                deathScreen.SetActive(true);
+            }
             gameObject.SetActive(false);
 
         }
