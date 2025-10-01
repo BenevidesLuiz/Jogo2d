@@ -10,9 +10,7 @@ public class StateManager : MonoBehaviour{
     public void LoadNextScene(string name){
         if(name != null){
             SceneManager.LoadScene(name);
-        }
-        
+           }
     }
-
 
 }
