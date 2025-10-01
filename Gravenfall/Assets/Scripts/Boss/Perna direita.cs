@@ -23,7 +23,7 @@ public class PernaDireita : MonoBehaviour
         hp = new BossHP(15);
         pERig = pEObj.GetComponent<Rigidbody2D>();
         Physics2D.IgnoreCollision(pE, pD);
-        Physics2D.IgnoreCollision(pD, playerCollider);
+       // Physics2D.IgnoreCollision(pD, playerCollider);
 
     }
 
@@ -33,8 +33,9 @@ public class PernaDireita : MonoBehaviour
         if (hp.IsDead())
         {
             
-        }
-        if (canAttack && player.transform.position.x < pEObj.transform.position.x - 5) {
+        }else
+        if (canAttack && player.transform.position.x < pEObj.transform.position.x - 5)
+        {
             canAttack = false;
             StartCoroutine(BossAttack());
         }
@@ -66,6 +67,18 @@ public class PernaDireita : MonoBehaviour
         canAttack = true;
 
     }
+    private void OnCollisionEnter2D(Collision2D col)
+    {
 
+        if (col.gameObject.TryGetComponent<Health>(out var health))
+        {
+            if (col.gameObject.CompareTag("Player"))
+            {
+                Debug.Log("aaaaaaaaaaaaaaaaaaaaa");
+                health.Damage(amount: 1);
+            }
+            //health.Damage(amount: 1); //aqui é o valor que o Player da de Dano.
+        }
+    }
 
 }

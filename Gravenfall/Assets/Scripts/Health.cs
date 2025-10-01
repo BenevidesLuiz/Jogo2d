@@ -1,44 +1,62 @@
 using UnityEngine;
 using UnityEngine.Events;
+using System.Collections;
 
-public class Health : MonoBehaviour{
+public class Health : MonoBehaviour {
 
+    
+    public float damageCooldown = 2f;
+    private bool canTakeDamage = true;
     [SerializeField]
     private int _maxhp = 100;
+    [SerializeField]
     private int _hp;
 
     public int MaxHp => _maxhp;
 
-    public int Hp{
+    public int Hp {
         get => _hp;
-        
-        private set{
+
+        private set {
             var isDamage = value < _hp;
-            _hp = Mathf.Clamp(value, min:0, _maxhp);
-            if(isDamage){
-              Damaged?.Invoke(_hp);  
+            _hp = Mathf.Clamp(value, min: 0, _maxhp);
+            if (isDamage) {
+                Damaged?.Invoke(_hp);
             }
-            else{
+            else {
                 Healed?.Invoke(_hp);
             }
 
-            if(_hp <= 0){
+            if (_hp <= 0) {
                 Died?.Invoke();
             }
 
         }
-    
+
     }
 
     public UnityEvent<int> Healed;
     public UnityEvent<int> Damaged;
     public UnityEvent Died;
 
-    private void Awake(){
-        _hp = _maxhp;    
+    private void Awake() {
+        _hp = _maxhp;
     }
 
-    public void Damage(int amount) => Hp-= amount;
+    public void Damage(int amount)
+    {
+        if (canTakeDamage)
+        {
+            Hp -= amount;
+            StartCoroutine(DamageCooldownRoutine());
+        }
+    }
+    private IEnumerator DamageCooldownRoutine()
+    {
+        canTakeDamage = false;
+        yield return new WaitForSeconds(damageCooldown);
+        canTakeDamage = true;
+    }
 
     public void Heal(int amount) => Hp += amount;
 

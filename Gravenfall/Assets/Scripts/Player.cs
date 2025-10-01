@@ -10,12 +10,16 @@ public class Player : MonoBehaviour{
     private SlashVFX slashVFX;
 
     private Rigidbody2D rb;
+    private BoxCollider2D boxCollider;
     private PlayerMove controls;
     private Animator animator;
-    private BoxCollider2D boxCollider;
-    private SpriteRenderer sprite;
     public GameObject slash;
-    private Vector2 collisorSize;
+    public GameObject collisorAreaGameObject;
+
+    private BoxCollider2D attackCollisor;
+
+
+    private bool hitInvencibility = false; 
 
     public float speed = 5f;
     private Vector2 moveInput;
@@ -53,8 +57,16 @@ public class Player : MonoBehaviour{
     }
     // aqui tmb
     private void OnCollisionEnter2D(Collision2D col){
-        if(col.gameObject.TryGetComponent<Health>(out var health)){
-            health.Damage(amount: 1); //aqui é o valor que o Player da de Dano.
+        if (col.gameObject.CompareTag("BossTag"))
+        {
+            
+        }
+        if (col.gameObject.TryGetComponent<Health>(out var health)){
+            if (col.gameObject.CompareTag("BossTag"))
+            {
+                health.Damage(amount: 1);
+            }
+            //health.Damage(amount: 1); //aqui é o valor que o Player da de Dano.
         }        
     }
 
@@ -86,17 +98,8 @@ public class Player : MonoBehaviour{
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        attackCollisor = collisorAreaGameObject.GetComponent<BoxCollider2D>();
         boxCollider = GetComponent<BoxCollider2D>();
-        sprite = GetComponent<SpriteRenderer>();
-        Transform filho = transform.Find("Slash");
-        if(filho != null)
-        {
-            slashVFX = filho.GetComponent<SlashVFX>();
-        }
-        else
-        {
-            Debug.LogError("Objeto filho não encontrado!");
-        }
 
 
     }
@@ -119,11 +122,12 @@ public class Player : MonoBehaviour{
             if (isRunning) {
                 if (attackInput && Time.time >= lastDashAttackTime + dashAttackCooldown)
                 {
+                    collisorAreaGameObject.SetActive(true);
                     animator.SetBool("dashing", true);
                     animator.SetBool("attacking", true);
                     StartCoroutine(PerformDashAttack());
                 }
-
+                
                 if (dashInput && Time.time >= lastDashTime + dashCooldown)
                 {
                     animator.SetBool("dashing", true);
@@ -175,6 +179,16 @@ public class Player : MonoBehaviour{
         isDashing = false;
         animator.SetBool("dashing", false);
     }
+    IEnumerator HitInvincibility()
+    {
+        hitInvencibility = true;
+        boxCollider.isTrigger = true;
+        yield return new WaitForSeconds(1f);
+        boxCollider.isTrigger = false;
+        hitInvencibility = false;
+
+    }
+
     IEnumerator PerformDashAttack(){
         isDashing = true;
         isAttacking = true;
@@ -211,8 +225,7 @@ public class Player : MonoBehaviour{
 
         animator.SetBool("attacking", false);
         animator.SetBool("dashing", false);
+        collisorAreaGameObject.SetActive(false);
 
     }
-
-
 }
