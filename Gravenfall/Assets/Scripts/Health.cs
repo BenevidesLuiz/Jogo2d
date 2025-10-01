@@ -43,15 +43,15 @@ public class Health : MonoBehaviour{
     public void Heal(int amount) => Hp += amount;
 
     public void HealFull() => Hp = _hp;
-
-    public void kill() => Hp = 0;
+    public void kill(){
+        Hp = 0;
+        LevelManager.instance.GameOver();
+        gameObject.SetActive(false);
+    }
 
     public void Adjust(int value){
         Hp = value;
     }
-
-
-
-
+    
 
 }
