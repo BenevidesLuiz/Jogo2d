@@ -8,7 +8,7 @@ using UnityEngine.UIElements;
 
 public class Player : MonoBehaviour{
     private SlashVFX slashVFX;
-
+    private SpriteRenderer playerSprite;
     private Rigidbody2D rb;
     private BoxCollider2D boxCollider;
     private PlayerMove controls;
@@ -45,6 +45,7 @@ public class Player : MonoBehaviour{
     private bool attackInput;
     private bool isAttacking = true;
 
+    Health playerHealth;
     [SerializeField] private Animator _animator;
     private List<Health> _objectsWithHealth = new();
 
@@ -70,7 +71,7 @@ public class Player : MonoBehaviour{
         {
             if (col.gameObject.CompareTag("BossTag"))
             {
-                health.Damage(amount: 1);
+                playerHealth.Damage(amount: 1);
             }
             //health.Damage(amount: 1); //aqui é o valor que o Player da de Dano.
         }
@@ -101,6 +102,8 @@ public class Player : MonoBehaviour{
 
     void Start()
     {
+        playerHealth = GetComponent<Health>();
+        playerSprite = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         attackCollisor = collisorAreaGameObject.GetComponent<BoxCollider2D>();
@@ -153,8 +156,10 @@ public class Player : MonoBehaviour{
 
 
     }
-   
 
+    public void ReceiveDamage() {
+        StartCoroutine(HitAnimation());
+    }
     IEnumerator StopRunningAfterDelay()
     {
         yield return new WaitForSeconds(0.05f);
@@ -186,15 +191,7 @@ public class Player : MonoBehaviour{
         isDashing = false;
         animator.SetBool("dashing", false);
     }
-    IEnumerator HitInvincibility()
-    {
-        hitInvencibility = true;
-        boxCollider.isTrigger = true;
-        yield return new WaitForSeconds(1f);
-        boxCollider.isTrigger = false;
-        hitInvencibility = false;
-
-    }
+    
 
     IEnumerator PerformDashAttack(){
         isDashing = true;
@@ -235,4 +232,28 @@ public class Player : MonoBehaviour{
         collisorAreaGameObject.SetActive(false);
 
     }
+    IEnumerator HitAnimation()
+    {
+        float duration = 2f;
+        float elapsed = 0f;
+        float blinkSpeed = 10f; 
+
+        while (elapsed < duration)
+        {
+            elapsed += Time.deltaTime;
+
+            float alpha = Mathf.Lerp(0.3f, 1f, Mathf.PingPong(Time.time * blinkSpeed, 1f));
+
+            Color c = playerSprite.color;
+            c.a = alpha;
+            playerSprite.color = c;
+
+            yield return null;
+        }
+
+        Color finalColor = playerSprite.color;
+        finalColor.a = 1f;
+        playerSprite.color = finalColor;
+    }
+
 }
