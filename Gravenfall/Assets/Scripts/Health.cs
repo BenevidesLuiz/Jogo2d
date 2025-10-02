@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour {
 
@@ -42,6 +43,8 @@ public class Health : MonoBehaviour {
     public UnityEvent<int> Damaged;
     public UnityEvent Died;
 
+    [SerializeField] private string nomeDoLevelJogo;
+
     private void Awake() {
         _hp = _maxhp;
     }
@@ -53,6 +56,7 @@ public class Health : MonoBehaviour {
         }
         if (Hp <= 0){
             if (deathScreen) {
+                SceneManager.LoadScene(nomeDoLevelJogo);
                 deathScreen.SetActive(true);
             }
             gameObject.SetActive(false);

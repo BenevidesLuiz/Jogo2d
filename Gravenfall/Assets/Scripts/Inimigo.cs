@@ -1,11 +1,14 @@
 using Pathfinding;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Inimigo : MonoBehaviour
 {
     private AIPath aiPath;
     private Animator animator;
     private Transform player;
+
+    [SerializeField] private string nomeDoLevelJogo;
 
     private ControlerMusica controlerMusica;
 
@@ -56,6 +59,7 @@ public class Inimigo : MonoBehaviour
 
         // chama a música da fase 2
         if (controlerMusica != null){
+            SceneManager.LoadScene(nomeDoLevelJogo);
             controlerMusica.TocarMusicaFase2();
         }
 
