@@ -6,8 +6,6 @@ public class ControlerMusica : MonoBehaviour{
     public AudioSource AudioSource2;
     public AudioSource AudioSourceDead;
 
-    
-
     void Start(){
         AudioSource1.Play();
 
