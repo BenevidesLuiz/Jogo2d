@@ -347,6 +347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd5d6002367556d4185e37d817cb8258, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nomeDoLevelJogo: 
   vida: 100
 --- !u!114 &278638112
 MonoBehaviour:
@@ -1344,7 +1345,7 @@ Transform:
   m_GameObject: {fileID: 1053677381}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.9733295, y: -0.3557315, z: 0}
+  m_LocalPosition: {x: 54.6, y: 0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2342,7 +2343,7 @@ Transform:
   m_GameObject: {fileID: 1550248743}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.39, y: 3.32, z: -10}
+  m_LocalPosition: {x: 1.4, y: 3.32, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2404,13 +2405,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8e1f632b7bfb1343a84b56f185f053d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
-  offset: {x: 0, y: 1, z: -10}
+  target: {fileID: 1550248746}
+  offset: {x: 0, y: 1, z: 0}
   smoothSpeed: 0.1
   minX: 0
   maxX: 20
   minY: 0
-  maxY: 5
+  maxY: 0
 --- !u!1 &1605641153
 GameObject:
   m_ObjectHideFlags: 0
@@ -2460,6 +2461,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd5d6002367556d4185e37d817cb8258, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nomeDoLevelJogo: 
   vida: 100
 --- !u!114 &1605641156
 MonoBehaviour:

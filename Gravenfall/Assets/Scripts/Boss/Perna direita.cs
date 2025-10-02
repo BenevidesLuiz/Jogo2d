@@ -5,6 +5,9 @@ using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class PernaDireita : MonoBehaviour
 {
+    public GameObject bossLimit;
+    public GameObject SceneLimit;
+
     public GameObject player;
     public GameObject pEObj;
     private BossHP hp;
@@ -31,7 +34,7 @@ public class PernaDireita : MonoBehaviour
     void Update()
     {
         
-        if (canAttack && player.transform.position.x < pEObj.transform.position.x - 5)
+        if (canAttack && player.transform.position.x > bossLimit.transform.position.x - 5 && player.transform.position.x < SceneLimit.transform.position.x - 5)
         {
             canAttack = false;
             StartCoroutine(BossAttack());
@@ -49,7 +52,7 @@ public class PernaDireita : MonoBehaviour
         rb.constraints = RigidbodyConstraints2D.FreezePositionY;
         
         yield return new WaitForSeconds(Random.Range(0, 4));
-        if (player.transform.position.x < pEObj.transform.position.x - 5)
+        if (player.transform.position.x > bossLimit.transform.position.x - 5 && player.transform.position.x < SceneLimit.transform.position.x - 5)
         {
             transform.localPosition = new Vector3(player.transform.position.x, transform.localPosition.y, transform.localPosition.z);
 
