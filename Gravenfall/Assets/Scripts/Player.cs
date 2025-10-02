@@ -57,24 +57,15 @@ public class Player : MonoBehaviour{
         }
     }
     // aqui tmb
-    private void OnCollisionEnter2D(Collision2D col){
-        if (col.gameObject.CompareTag("BossTag"))
-        {
-            
-        }
-            
-    }
+
     void OnTriggerEnter2D(Collider2D col)
     {
-        Debug.Log("Entrou no trigger com: " + col.gameObject.name);
-        if (col.gameObject.TryGetComponent<Health>(out var health))
-        {
+       
             if (col.gameObject.CompareTag("BossTag"))
             {
                 playerHealth.Damage(amount: 1);
             }
-            //health.Damage(amount: 1); //aqui é o valor que o Player da de Dano.
-        }
+        
     }
 
 
