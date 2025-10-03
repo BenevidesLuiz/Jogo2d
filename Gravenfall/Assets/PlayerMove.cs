@@ -189,6 +189,15 @@ public partial class @PlayerMove: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""EquipSword"",
+                    ""type"": ""Button"",
+                    ""id"": ""40af242d-fbe2-4283-b29c-003961f47ded"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -629,6 +638,28 @@ public partial class @PlayerMove: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""GoToMenu"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""0fcee49a-5b1c-42ba-b3b0-fe2501f59eb4"",
+                    ""path"": ""<Keyboard>/q"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""EquipSword"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""4cc9eb4b-1287-48d3-a860-89325f6e7f2b"",
+                    ""path"": ""<Gamepad>/buttonNorth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""EquipSword"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -1238,6 +1269,7 @@ public partial class @PlayerMove: IInputActionCollection2, IDisposable
         m_Player_Sprint = m_Player.FindAction("Sprint", throwIfNotFound: true);
         m_Player_Dash = m_Player.FindAction("Dash", throwIfNotFound: true);
         m_Player_GoToMenu = m_Player.FindAction("GoToMenu", throwIfNotFound: true);
+        m_Player_EquipSword = m_Player.FindAction("EquipSword", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -1342,6 +1374,7 @@ public partial class @PlayerMove: IInputActionCollection2, IDisposable
     private readonly InputAction m_Player_Sprint;
     private readonly InputAction m_Player_Dash;
     private readonly InputAction m_Player_GoToMenu;
+    private readonly InputAction m_Player_EquipSword;
     /// <summary>
     /// Provides access to input actions defined in input action map "Player".
     /// </summary>
@@ -1397,6 +1430,10 @@ public partial class @PlayerMove: IInputActionCollection2, IDisposable
         /// Provides access to the underlying input action "Player/GoToMenu".
         /// </summary>
         public InputAction @GoToMenu => m_Wrapper.m_Player_GoToMenu;
+        /// <summary>
+        /// Provides access to the underlying input action "Player/EquipSword".
+        /// </summary>
+        public InputAction @EquipSword => m_Wrapper.m_Player_EquipSword;
         /// <summary>
         /// Provides access to the underlying input action map instance.
         /// </summary>
@@ -1456,6 +1493,9 @@ public partial class @PlayerMove: IInputActionCollection2, IDisposable
             @GoToMenu.started += instance.OnGoToMenu;
             @GoToMenu.performed += instance.OnGoToMenu;
             @GoToMenu.canceled += instance.OnGoToMenu;
+            @EquipSword.started += instance.OnEquipSword;
+            @EquipSword.performed += instance.OnEquipSword;
+            @EquipSword.canceled += instance.OnEquipSword;
         }
 
         /// <summary>
@@ -1500,6 +1540,9 @@ public partial class @PlayerMove: IInputActionCollection2, IDisposable
             @GoToMenu.started -= instance.OnGoToMenu;
             @GoToMenu.performed -= instance.OnGoToMenu;
             @GoToMenu.canceled -= instance.OnGoToMenu;
+            @EquipSword.started -= instance.OnEquipSword;
+            @EquipSword.performed -= instance.OnEquipSword;
+            @EquipSword.canceled -= instance.OnEquipSword;
         }
 
         /// <summary>
@@ -1877,6 +1920,13 @@ public partial class @PlayerMove: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnGoToMenu(InputAction.CallbackContext context);
+        /// <summary>
+        /// Method invoked when associated input action "EquipSword" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// </summary>
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
+        void OnEquipSword(InputAction.CallbackContext context);
     }
     /// <summary>
     /// Interface to implement callback methods for all input action callbacks associated with input actions defined by "UI" which allows adding and removing callbacks.

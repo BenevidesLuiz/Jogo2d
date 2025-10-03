@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
+using UnityEngine.UIElements.Experimental;
 
 
 public class Player : MonoBehaviour{
@@ -91,6 +92,26 @@ public class Player : MonoBehaviour{
     {
         controls = new PlayerMove();
         controls.Player.GoToMenu.performed += ctx => uiManager.ToggleMenuPanel();
+        controls.Player.EquipSword.performed += ctx => {
+            if (!animator.GetBool("dashing") && !animator.GetBool("running") && !animator.GetBool("dashing") && !animator.GetBool("attacking"))
+            {
+
+                if (animator.GetInteger("weapon") == 1)
+                {
+                    animator.SetInteger("weapon", 0);
+
+                }
+                else
+                {
+
+                    animator.SetInteger("weapon", 1);
+
+                }
+            }
+            
+
+
+        };
 
         controls.Player.Move.performed += ctx => moveInput = ctx.ReadValue<Vector2>();
         controls.Player.Move.canceled += ctx => moveInput = Vector2.zero;
@@ -162,7 +183,7 @@ public class Player : MonoBehaviour{
             bool isRunning = Mathf.Abs(moveInput.x) > 0;
             if (isRunning)
             {
-                if (attackInput && Time.time >= lastDashAttackTime + dashAttackCooldown)
+                if (attackInput && Time.time >= lastDashAttackTime + dashAttackCooldown && animator.GetInteger("weapon") == 1)
                 {
                     dashDirection = Mathf.Sign(moveInput.x);
 
