@@ -29,15 +29,17 @@ public class CameraFllow : MonoBehaviour
             {
                 boundedPosition = new Vector3(maxX, maxY, desiredPosition.z);
 
+                Vector3 smoothedPosition = Vector3.Lerp(transform.position, boundedPosition, 0.05f);
+                transform.position = smoothedPosition;
             }
             else { 
                 boundedPosition = new Vector3(clampedX, clampedY, desiredPosition.z);
+                Vector3 smoothedPosition = Vector3.Lerp(transform.position, boundedPosition, smoothSpeed);
+
+                transform.position = smoothedPosition;
             }
 
-            // Movimento suave
-            Vector3 smoothedPosition = Vector3.Lerp(transform.position, boundedPosition, smoothSpeed);
-
-            transform.position = smoothedPosition;
+            
         }
     }
 }

@@ -1,8 +1,11 @@
+using System.Collections;
 using UnityEngine;
 
 public class CameraVerifier : MonoBehaviour
 {
-    public GameObject camera;
+    public PernaDireita pernaDireita;
+    public GameObject cameraObj;
+    private bool wasCalled = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,12 +22,22 @@ public class CameraVerifier : MonoBehaviour
 
         if (col.gameObject.CompareTag("Player"))
         {
-            if (camera.TryGetComponent<CameraFllow>(out var cameraFllow))
+            if (cameraObj.TryGetComponent<CameraFllow>(out var cameraFllow))
             {
                 cameraFllow.TravarCamera();
+                if (!wasCalled) { 
+                    StartCoroutine(StartBossFight());
+                }
+
             }
         }
         
+    }
 
+    IEnumerator StartBossFight()
+    {
+        yield return new WaitForSeconds(1f);
+        wasCalled = true;
+        pernaDireita.canStartAttack();
     }
 }

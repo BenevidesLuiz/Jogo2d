@@ -9,8 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 3971473d26f8b4147a8f0a465e39308a
   - enabled: 1
-    path: Assets/Scenes/Teste Luiz.unity
-    guid: 230fb02f1cd200b489e726f2c0e8c472
+    path: Assets/Scenes/BossBattle.unity
+    guid: 78c9725d9e770fc48937307cea601c4d
+  - enabled: 1
+    path: Assets/Scenes/Morte.unity
+    guid: 9cebdc21c9806204f81fbb29e1460903
+  - enabled: 1
+    path: Assets/Scenes/Vitoria.unity
+    guid: c4af4c56b5e441348bee558295103472
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

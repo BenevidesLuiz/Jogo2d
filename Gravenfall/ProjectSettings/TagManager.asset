@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Attack
   - BossTag
+  - Ground
   layers:
   - Default
   - TransparentFX

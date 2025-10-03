@@ -7,7 +7,6 @@ using UnityEngine.UIElements;
 
 
 public class Player : MonoBehaviour{
-    private SlashVFX slashVFX;
     private SpriteRenderer playerSprite;
     private Rigidbody2D rb;
     private BoxCollider2D boxCollider;
@@ -15,12 +14,12 @@ public class Player : MonoBehaviour{
     private Animator animator;
     public GameObject slash;
     public GameObject collisorAreaGameObject;
-    
+    private TrailRenderer trail;
     private BoxCollider2D attackCollisor;
+    public UIManager uiManager;
 
 
-    private bool hitInvencibility = false; 
-
+    private int cantMoveDirection = 0;
     public float speed = 5f;
     private Vector2 moveInput;
     private Coroutine stopRunningCoroutine;
@@ -29,6 +28,7 @@ public class Player : MonoBehaviour{
     public float dashDuration = 0.5f;
     public float dashCooldown = 2f;
     public float dashForce = 20f;
+    private bool cancelDash = false;
 
     private bool dashInput;
     private float dashTimer = 0f;
@@ -39,12 +39,12 @@ public class Player : MonoBehaviour{
     public float dashAttackDuration = 0.5f;
     public float dashAttackCooldown = 2f;
     public float dashAttackForce = 20f;
-
+    public float dashDirection;
     private float lastDashAttackTime = 0;
     private float dashAttackTimer = 0f;
     private bool attackInput;
     private bool isAttacking = true;
-
+    private bool canAttack = true;
     Health playerHealth;
     [SerializeField] private Animator _animator;
     private List<Health> _objectsWithHealth = new();
@@ -68,15 +68,45 @@ public class Player : MonoBehaviour{
         
     }
 
+    void OnTriggerStay2D(Collider2D col)
+    {
+
+        if (col.gameObject.CompareTag("BossTag"))
+        {
+            canAttack = false;
+        }
+
+    }
+    void OnTriggerExit2D(Collider2D col)
+    {
+
+        if (col.gameObject.CompareTag("BossTag"))
+        {
+            canAttack = true;
+        }
+
+    }
 
     void Awake()
     {
         controls = new PlayerMove();
+        controls.Player.GoToMenu.performed += ctx => uiManager.ToggleMenuPanel();
+
         controls.Player.Move.performed += ctx => moveInput = ctx.ReadValue<Vector2>();
         controls.Player.Move.canceled += ctx => moveInput = Vector2.zero;
         controls.Player.Dash.performed += ctx => dashInput = true;
         controls.Player.Dash.canceled += ctx => dashInput = false;
-        controls.Player.Attack.performed += ctx => attackInput = true;
+        controls.Player.Attack.performed += ctx => {
+            if (canAttack == true) { 
+            attackInput = true;
+
+            }
+            else
+            {
+                attackInput = false;
+            }
+
+        };
         controls.Player.Attack.canceled += ctx => attackInput = false;
 
     }
@@ -93,6 +123,8 @@ public class Player : MonoBehaviour{
 
     void Start()
     {
+        trail = GetComponent<TrailRenderer>();
+        trail.enabled = false;
         playerHealth = GetComponent<Health>();
         playerSprite = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
@@ -105,49 +137,76 @@ public class Player : MonoBehaviour{
 
     void FixedUpdate()
     {
-     
-            
+
+
         if (!isDashing) {
-            rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
-            if (moveInput.x > 0) {
+            trail.enabled = false;
+
+            if (moveInput.x > 0 && cantMoveDirection != 1 && !isDashing)
+            {
                 transform.localScale = new Vector3(2, 2, 2);
+                rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
+
             }
-            else if (moveInput.x < 0) {
+            else if (moveInput.x < 0 && cantMoveDirection != -1 && !isDashing)
+            {
                 transform.localScale = new Vector3(-2, 2, 2);
+                rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
 
             }
+            else { 
+                rb.linearVelocity = new Vector2( 0, rb.linearVelocity.y);
 
+            }
+            
             bool isRunning = Mathf.Abs(moveInput.x) > 0;
-            if (isRunning) {
+            if (isRunning)
+            {
                 if (attackInput && Time.time >= lastDashAttackTime + dashAttackCooldown)
                 {
+                    dashDirection = Mathf.Sign(moveInput.x);
+
                     collisorAreaGameObject.SetActive(true);
                     animator.SetBool("dashing", true);
                     animator.SetBool("attacking", true);
                     StartCoroutine(PerformDashAttack());
                 }
-                
+
                 if (dashInput && Time.time >= lastDashTime + dashCooldown)
                 {
+                    dashDirection = Mathf.Sign(moveInput.x);
+
                     animator.SetBool("dashing", true);
+
                     StartCoroutine(PerformDash());
 
                 }
-                if (stopRunningCoroutine != null) {
+                if (stopRunningCoroutine != null)
+                {
                     StopCoroutine(stopRunningCoroutine);
                     stopRunningCoroutine = null;
                 }
                 animator.SetBool("running", true);
-            } else {
+            }
+            else
+            {
                 stopRunningCoroutine ??= StartCoroutine(StopRunningAfterDelay());
             }
             
+           
+            
         
+        }else
+        {
+            trail.enabled = true;
+
         }
 
 
     }
-
+    public void stopMovement(int direction) {
+        cantMoveDirection = direction;
+    }
     public void ReceiveDamage() {
         StartCoroutine(HitAnimation());
     }
@@ -161,20 +220,28 @@ public class Player : MonoBehaviour{
 
         stopRunningCoroutine = null;
     }
+    public void CancelDash() {
+        rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        isDashing = false;
+        animator.SetBool("dashing", false);
+    }
+    
     IEnumerator PerformDash()
     {
         isDashing = true;
         dashTimer = dashDuration;
         lastDashTime = Time.time;
 
-        float dashDirection = Mathf.Sign(moveInput.x);
-        if (dashDirection == 0) dashDirection = transform.localScale.x;
+        if (cantMoveDirection != dashDirection){
+            if (dashDirection == 0) dashDirection = transform.localScale.x;
 
-        while (dashTimer > 0)
-        {
-            rb.linearVelocity = new Vector2(dashDirection * dashForce, rb.linearVelocity.y);
-            dashTimer -= Time.deltaTime;
-            yield return null;
+            while (dashTimer > 0)
+            {
+                rb.linearVelocity = new Vector2(dashDirection * dashForce, rb.linearVelocity.y);
+                dashTimer -= Time.deltaTime;
+                yield return null;
+            }
+
         }
 
 
@@ -191,21 +258,12 @@ public class Player : MonoBehaviour{
         lastDashAttackTime = Time.time;
         yield return new WaitForSeconds(0.25f);
 
-        //slashVFX.StartVFX();
-        float dashDirection = Mathf.Sign(moveInput.x);
         if (dashDirection == 0) dashDirection = transform.localScale.x;
         while (dashAttackTimer > 0)
         {
             rb.linearVelocity = new Vector2(dashDirection * dashAttackForce, rb.linearVelocity.y);
 
-            if (dashDirection > 0) {
-                slash.transform.localRotation = Quaternion.Euler(0, 180, 0);
-
-            } else if (dashDirection < 0) {
-                slash.transform.localRotation = Quaternion.Euler(0, 0, 0);
-
-            }
-
+           
             dashAttackTimer -= Time.deltaTime;
             yield return null;
         }

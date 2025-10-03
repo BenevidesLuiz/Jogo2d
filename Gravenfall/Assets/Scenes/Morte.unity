@@ -391,7 +391,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Teste Luiz
+          m_StringArgument: BossBattle
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &616113486
@@ -1031,6 +1031,9 @@ MonoBehaviour:
   AudioSource1: {fileID: 905000666}
   AudioSource2: {fileID: 905000667}
   AudioSourceDead: {fileID: 905000666}
+  hitBoss: {fileID: 0}
+  bossfootStep: {fileID: 0}
+  hitPlayer: {fileID: 0}
 --- !u!4 &905000670
 Transform:
   m_ObjectHideFlags: 0
@@ -1358,7 +1361,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e14063e355a17004fb644ceb38359f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathPanel: {fileID: 0}
 --- !u!114 &1259356996
 MonoBehaviour:
   m_ObjectHideFlags: 0
