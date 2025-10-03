@@ -12,13 +12,32 @@ public class ControlerMusica : MonoBehaviour{
     private void Awake()
     {
         float volume = PlayerPrefs.GetFloat("volume");
-
-        AudioSource1.volume = volume;
-        AudioSource2.volume = volume;
-        AudioSourceDead.volume = volume;
-        hitBoss.volume = volume;
-        bossfootStep.volume = volume;
-        hitPlayer.volume = volume;
+        if (volume ==0){
+            volume = 0.10f;
+        }
+        if (AudioSource1){
+            AudioSource1.volume = volume;
+        }
+        if (AudioSource2)
+        {
+            AudioSource2.volume = volume;
+        }
+        if (AudioSourceDead)
+        {
+            AudioSourceDead.volume = volume;
+        }
+        if (hitBoss)
+        {
+            hitBoss.volume = volume;
+        }
+        if (bossfootStep)
+        {
+            bossfootStep.volume = volume;
+        }
+        if (hitPlayer)
+        {
+            bossfootStep.volume = volume;
+        }
     }
     void Start(){
 
@@ -29,11 +48,7 @@ public class ControlerMusica : MonoBehaviour{
 
         AudioSource1.Play();
 
-        Health playerHealth = Object.FindFirstObjectByType<Health>();
-
-        if (playerHealth != null){
-            playerHealth.Died.AddListener(PlayerDead);
-        }
+      
 
     }
     public void HitPlayer() {
