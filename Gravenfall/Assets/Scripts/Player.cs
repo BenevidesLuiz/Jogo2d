@@ -10,13 +10,11 @@ using UnityEngine.UIElements.Experimental;
 public class Player : MonoBehaviour{
     private SpriteRenderer playerSprite;
     private Rigidbody2D rb;
-    private BoxCollider2D boxCollider;
     private PlayerMove controls;
     private Animator animator;
     public GameObject slash;
     public GameObject collisorAreaGameObject;
     private TrailRenderer trail;
-    private BoxCollider2D attackCollisor;
     public UIManager uiManager;
 
 
@@ -29,7 +27,6 @@ public class Player : MonoBehaviour{
     public float dashDuration = 0.5f;
     public float dashCooldown = 2f;
     public float dashForce = 20f;
-    private bool cancelDash = false;
 
     private bool dashInput;
     private float dashTimer = 0f;
@@ -44,7 +41,6 @@ public class Player : MonoBehaviour{
     private float lastDashAttackTime = 0;
     private float dashAttackTimer = 0f;
     private bool attackInput;
-    private bool isAttacking = true;
     private bool canAttack = true;
     Health playerHealth;
     [SerializeField] private Animator _animator;
@@ -150,8 +146,6 @@ public class Player : MonoBehaviour{
         playerSprite = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        attackCollisor = collisorAreaGameObject.GetComponent<BoxCollider2D>();
-        boxCollider = GetComponent<BoxCollider2D>();
 
 
     }
@@ -274,7 +268,6 @@ public class Player : MonoBehaviour{
 
     IEnumerator PerformDashAttack(){
         isDashing = true;
-        isAttacking = true;
         dashAttackTimer = dashAttackDuration;
         lastDashAttackTime = Time.time;
         yield return new WaitForSeconds(0.25f);
@@ -290,7 +283,6 @@ public class Player : MonoBehaviour{
         }
 
         yield return new WaitForSeconds(0.15f);
-        isAttacking = false;
         
 
         isDashing = false;
