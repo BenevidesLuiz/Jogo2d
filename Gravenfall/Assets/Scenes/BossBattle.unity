@@ -2427,7 +2427,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageCooldown: 2
-  _maxhp: 5
+  _maxhp: 10
   _hp: 0
   deathScreen: {fileID: 0}
   Healed:
