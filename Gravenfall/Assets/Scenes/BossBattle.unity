@@ -2604,7 +2604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageCooldown: 2
-  _maxhp: 10
+  _maxhp: 5
   _hp: 0
   deathScreen: {fileID: 0}
   Healed:
@@ -3478,8 +3478,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e2b8ecad7d31a064fa8d4f1ac4f97315, type: 3}
-  m_Resource: {fileID: 8300000, guid: e2b8ecad7d31a064fa8d4f1ac4f97315, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 7d788e9d29c02cd47a3ec7b51fc21a0c, type: 3}
+  m_Resource: {fileID: 8300000, guid: 7d788e9d29c02cd47a3ec7b51fc21a0c, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.33
   m_Pitch: 1
