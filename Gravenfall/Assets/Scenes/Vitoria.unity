@@ -825,9 +825,9 @@ MonoBehaviour:
   AudioSource1: {fileID: 1417425650}
   AudioSource2: {fileID: 1417425651}
   AudioSourceDead: {fileID: 1417425650}
-  hitBoss: {fileID: 0}
-  bossfootStep: {fileID: 0}
-  hitPlayer: {fileID: 0}
+  hitBoss: {fileID: 1417425652}
+  bossfootStep: {fileID: 1417425652}
+  hitPlayer: {fileID: 1417425652}
 --- !u!4 &1417425654
 Transform:
   m_ObjectHideFlags: 0
