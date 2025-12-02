@@ -4,18 +4,13 @@ using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour{
     private PlayerMove controls;
-    private void Start()
-    {
-     
-
+    private void Start(){
     }
-    private void Update()
-    {
+    private void Update(){
         
     }
 
-    public void ToggleMenuPanel()
-    {
+    public void ToggleMenuPanel(){
         if (!string.IsNullOrEmpty("Menu"))
         {
             SceneManager.LoadScene("Menu");
@@ -25,8 +20,7 @@ public class UIManager : MonoBehaviour{
             Debug.LogWarning("Nome da cena não definido!");
         }
     }
-    public void ToggleDeathPanel()
-    {
+    public void ToggleDeathPanel(){
         if (!string.IsNullOrEmpty("Morte"))
         {
             SceneManager.LoadScene("Morte");
@@ -36,8 +30,7 @@ public class UIManager : MonoBehaviour{
             Debug.LogWarning("Nome da cena não definido!");
         }
     }
-    public void ToggleWinPanel()
-    {
+    public void ToggleWinPanel(){
         if (!string.IsNullOrEmpty("Vitoria"))
         {
             SceneManager.LoadScene("Vitoria");

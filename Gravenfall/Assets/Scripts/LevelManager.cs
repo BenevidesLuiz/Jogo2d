@@ -13,7 +13,6 @@ public class LevelManager : MonoBehaviour{
 
     public void GameOver(){
         if (_ui != null){
-            //_ui.ToogleDeathPanel();
             _ui.ToggleDeathPanel();
 
         }

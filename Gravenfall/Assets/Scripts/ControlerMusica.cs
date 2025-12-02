@@ -40,16 +40,7 @@ public class ControlerMusica : MonoBehaviour{
         }
     }
     void Start(){
-
-       
-
-
-
-
         AudioSource1.Play();
-
-      
-
     }
     public void HitPlayer() {
         hitPlayer.Play();
