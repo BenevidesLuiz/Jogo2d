@@ -36,7 +36,7 @@ public class ControlerMusica : MonoBehaviour{
         }
         if (hitPlayer)
         {
-            bossfootStep.volume = volume;
+            hitPlayer.volume = volume;
         }
     }
     void Start(){

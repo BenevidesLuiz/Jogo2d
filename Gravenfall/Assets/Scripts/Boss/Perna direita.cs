@@ -1,7 +1,5 @@
 using System.Collections;
-using TreeEditor;
 using UnityEngine;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class PernaDireita : MonoBehaviour
 {
@@ -17,7 +15,6 @@ public class PernaDireita : MonoBehaviour
     private Rigidbody2D pERig;
     private Rigidbody2D rb;
     private bool canAttack = false;
-    private Health bossHP;
 
 
 
@@ -35,7 +32,6 @@ public class PernaDireita : MonoBehaviour
     {
         bossSprite = GetComponent<SpriteRenderer>();
 
-        bossHP = GetComponent<Health>();
         rb = GetComponent<Rigidbody2D>();
         pD = GetComponent<Collider2D>();
         pE = pEObj.GetComponent<Collider2D>();
